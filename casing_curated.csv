@@ -5744,7 +5744,7 @@ $26836-07-7$,$benzensulfonic acid, dodecyl-, compound with 2-aminoethanol(1:1)$,
 $26836-07-7$,$dodeccylbenzenesulfonic acid, monoethanolamine salt$,$perfect match$,$close_match$,$both$,$26836-07-7$,$26836-07-7$,$$,$26836-07-7$,$$,$26836-07-7$,$d:2021-10-07$,$$,$$
 $26836-07-7$,$dodecylbensenesulphonic acid, compound with 2-aminoethanol (1:1)$,$perfect match$,$close_match$,$both$,$26836-07-7$,$26836-07-7$,$$,$26836-07-7$,$$,$26836-07-7$,$d:2021-10-07$,$$,$$
 $26836-07-7$,$dodecylbenzenessulfonic acid$,$perfect match$,$close_match$,$conflict$,$26836-07-7$,$26836-07-7$,$$,$27176-87-0$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
-$26836-07-7$,$dodecylbenzenessulphonic acid$,$perfect match$,$close_match$,$conflict$,$26836-07-7$,$26836-07-7$,$dodecylbenzenesulphonic acid$,$27176-87-0$,$$,$conflictingID$,$d:2021-12-04$,$$,$testing git$
+$26836-07-7$,$dodecylbenzenessulphonic acid$,$perfect match$,$close_match$,$conflict$,$26836-07-7$,$26836-07-7$,$dodecylbenzenesulphonic acid$,$27176-87-0$,$$,$conflictingID$,$d:2021-12-04$,$$,$$
 $26836-07-7$,$dodecylbenzenesulfonic acid$,$perfect match$,$perfect$,$conflict$,$26836-07-7$,$26836-07-7$,$$,$27176-87-0$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $26836-07-7$,$dodecylbenzenesulfonic acid,$,$perfect match$,$close_match$,$conflict$,$26836-07-7$,$26836-07-7$,$$,$27176-87-0$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $26836-07-7$,$dodecylbenzenesulfonic acid, ethanolamine salt$,$perfect match$,$perfect$,$both$,$26836-07-7$,$26836-07-7$,$$,$26836-07-7$,$$,$26836-07-7$,$d:2021-10-07$,$$,$$
@@ -15043,10 +15043,10 @@ $7786-30-3$,$organic salt #1$,$perfect match$,$no_match$,$CAS_only$,$7786-30-3$,
 $7786-30-3$,$organic salt #2$,$perfect match$,$no_match$,$CAS_only$,$7786-30-3$,$7786-30-3$,$$,$non_spec$,$unk$,$7786-30-3$,$d:2021-10-07$,$$,$$
 $7786-81-4$,$nickel chelate catalyst$,$perfect match$,$perfect$,$CAS_only$,$7786-81-4$,$7786-81-4$,$$,$non_spec$,$$,$7786-81-4$,$d:2021-10-07$,$$,$$
 $7786-81-4$,$nickel sulfate$,$perfect match$,$perfect$,$both$,$7786-81-4$,$7786-81-4$,$$,$7786-81-4$,$$,$7786-81-4$,$d:2021-10-07$,$$,$$
-$7789-20-0$,$carrier / base fluid - water$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7789-20-0$,$d:2021-10-07$,$$,$$
+$7789-20-0$,$carrier / base fluid - water$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier – too expensive. More likely a sloppy data entry$
 $7789-20-0$,$deuterium oxide$,$perfect match$,$perfect$,$both$,$7789-20-0$,$7789-20-0$,$$,$7789-20-0$,$$,$7789-20-0$,$d:2021-10-07$,$$,$$
-$7789-20-0$,$fresh water$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7789-20-0$,$d:2021-10-07$,$$,$$
-$7789-20-0$,$sodium polycarboxylate$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7789-20-0$,$d:2021-10-07$,$$,$$
+$7789-20-0$,$fresh water$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier – too expensive. More likely a sloppy data entry$
+$7789-20-0$,$sodium polycarboxylate$,$perfect match$,$no_match$,$CAS_only$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a likey ingredient; since IngredientName does not even support a “water” designation, we mark as ambigious$
 $7789-20-0$,$water$,$perfect match$,$perfect$,$conflict$,$7789-20-0$,$7789-20-0$,$$,$7732-18-5$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7789-20-02$,$water$,$corrected$,$perfect$,$both$,$$,$7732-18-5$,$$,$7732-18-5$,$$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7789-38-0$,$ammonium persulfate$,$perfect match$,$perfect$,$conflict$,$7789-38-0$,$7789-38-0$,$$,$7727-54-0$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
