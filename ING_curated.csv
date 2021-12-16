@@ -1245,6 +1245,7 @@ $3,6,9,12 tetraoxatetradecan 1 ol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:20
 $3,6,9,12-tetraoxatetradecan-1-o1$,$3,6,9,12-tetraoxatetradecan-1-ol$,$5650-20-4$,$close_match$,$0.96875$,$$,$d:2021-10-03$,$$,$$
 $3,6,9,12-tetraoxatetradecan-1-ol$,$3,6,9,12-tetraoxatetradecan-1-ol$,$5650-20-4$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $3,6,9,12-tetraoxatetrdecan-1-ol$,$3,6,9,12-tetraoxatetradecan-1-ol$,$5650-20-4$,$close_match$,$0.9841269841$,$$,$d:2021-10-03$,$$,$$
+$3- propynol$,$3-propynol$,$107-19-7$,$close_match$,$0.9523809524$,$$,$d:2021-12-16$,$$,$$
 $3-(trifluoromethyl)benzoic acid$,$3-(trifluoromethyl)benzoic acid$,$454-92-2$,$perfect$,$1.0$,$['455-24-3', '433-97-6']$,$d:2021-10-03$,$$,$$
 $3-aminopropyl (sileanetriol)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $3-aminopropyltriethoxysilane$,$(3-aminopropyl)triethoxysilane$,$919-30-2$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
@@ -2107,6 +2108,7 @@ $alcohol, c9-11-iso, c10, ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$
 $alcohol, c9-11-iso, c8, ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $alcohol, c9-c11,$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $alcohol, c9-c11, ethoxylated$,$alcohols, c9-11, ethoxylated$,$68439-46-3$,$close_match$,$0.9642857143$,$$,$d:2021-10-03$,$$,$$
+$alcohol, ethoxylate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $alcohol, ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $alcohol,c9-11-iso,c10,ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $alcohold ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -2308,6 +2310,7 @@ $alcohols, c11-14-iso, c-13-rich, ethoxylated propoxylated$,$alcohols, c11-14-is
 $alcohols, c11-14-iso, c13 rich ethoxylates$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $alcohols, c11-14-iso, c13 rich, ethoxylated$,$alcohols, c11-14-iso-, c13-rich, ethoxylated$,$78330-21-9$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
 $alcohols, c11-14-iso, c13- rich ethoxylates$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$alcohols, c11-14-iso, c13- rich, ethoxylated$,$alcohols, c11-14-iso-, c13-rich, ethoxylated$,$78330-21-9$,$close_match$,$0.9772727273$,$$,$d:2021-12-16$,$$,$$
 $alcohols, c11-14-iso, c13-rich, ethoxylated$,$alcohols, c11-14-iso-, c13-rich, ethoxylated$,$78330-21-9$,$close_match$,$0.9885057471$,$$,$d:2021-10-03$,$$,$$
 $alcohols, c11-14-iso,-c13-rich, ethoxylated$,$alcohols, c11-14-iso-, c13-rich, ethoxylated$,$78330-21-9$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
 $alcohols, c11-14-iso,c13-rich ethoxylated$,$alcohols, c11-14-iso-, c13-rich, ethoxylated$,$78330-21-9$,$close_match$,$0.9647058824$,$$,$d:2021-10-03$,$$,$$
@@ -5468,6 +5471,7 @@ $copolymer of acrylamide and sodium$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:
 $copolymer of acrylamide and sodium acrylate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $copolymer of acrylamide and sodium acrylate - ts$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $copolymer of acrylamide and sodium acylate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$copolymer of acrylamide of sodium acrylate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $copolymer of acrylamide- aetac$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $copolymer of acrylamide-aetac$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $copolymer of maleic and acrylic acid$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -11245,6 +11249,7 @@ $paraffin/olefin blend$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$
 $paraffinc, naphthenic solvent$,$paraffinic naphthenic solvent$,$non_spec$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
 $paraffini solvent$,$paraffinic solvent$,$non_spec$,$close_match$,$0.9714285714$,$$,$d:2021-10-03$,$$,$$
 $paraffinic hydrocarbon solvent$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$paraffinic naphthenic  solvent$,$paraffinic naphthenic solvent$,$non_spec$,$close_match$,$0.9830508475$,$$,$d:2021-12-16$,$$,$$
 $paraffinic naphthenic solvent$,$paraffinic naphthenic solvent$,$non_spec$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $paraffinic naphthenic solvent/inorganic borates$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $paraffinic napthenic solvayt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -11550,6 +11555,7 @@ $petroluem hydrotreated light distillate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk
 $petrolum destillate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $petrolum distillate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $petrolum distillate blend$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$petrolum distillates, hydrotreated light$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $petroylamide-co-acrylic acid$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $petyroleum distillate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $pgenol-formaldehyde novalk resin$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -11917,6 +11923,7 @@ $phosponate of a kiamine, sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$
 $phosponate of diamine, sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $phosponic acid$,$phosphonic acid$,$non_spec$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
 $phosponic acid salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$phosponic acid, [[(phosphonomethyl)imino]bis[6,1-hexanediylnitrilobis(methylene)]]tetrakis-methanol$,$phosphonic acid, [[(phosphonomethyl)imino]bis[6,1-hexanediylnitrilobis(methylene)]]tetrakis-$,$non_spec$,$conflicting_matches$,$0.9528795812$,$['15827-60-8', '34690-00-1']$,$d:2021-12-16$,$$,$$
 $phosponic acid, sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $phosponium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $phosponium, tetrakis (hydroxymethyl)-, sulfate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -14394,6 +14401,7 @@ $quarternary ammoniium compunds, benzyl-c12-16-alkyldimethyl, chlorides$,$quater
 $quarternary ammonium$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $quarternary ammonium amine$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $quarternary ammonium chloride$,$quaternary ammonium chloride$,$non_spec$,$close_match$,$0.9824561404$,$$,$d:2021-10-03$,$$,$$
+$quarternary ammonium comp.$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $quarternary ammonium compond$,$quaternary ammonium compound$,$non_spec$,$close_match$,$0.9642857143$,$$,$d:2021-10-03$,$$,$$
 $quarternary ammonium compound$,$quaternary ammonium compound$,$non_spec$,$close_match$,$0.9824561404$,$$,$d:2021-10-03$,$$,$$
 $quarternary ammonium compound mixture$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -16008,8 +16016,10 @@ $sufactant based on cocamide$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10
 $sufactant blend$,$surfactant blend$,$non_spec$,$close_match$,$0.9677419355$,$$,$d:2021-10-03$,$$,$$
 $sufamic acid$,$sulfamic acid$,$5329-14-6$,$close_match$,$0.96$,$$,$d:2021-10-03$,$$,$$
 $sufamic acid, n-bromo, sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$suffractant$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $sufonate salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $sufonic acids, c14-c16-alkene, sodium salts$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$sufractant$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-16$,$$,$$
 $sugar$,$sugar$,$57-50-1$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $sugar, sucrose, saccharose$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $sukfur dioxide$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
