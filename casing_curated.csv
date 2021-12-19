@@ -2351,6 +2351,7 @@ $111-76-2$,$ethylene glycol bbuty ether$,$perfect match$,$conflicting_matches$,$
 $111-76-2$,$ethylene glycol buty ether$,$perfect match$,$conflicting_matches$,$CAS_only$,$111-76-2$,$111-76-2$,$$,$non_spec$,$['111-76-2', '112-34-5']$,$111-76-2$,$d:2021-10-07$,$$,$$
 $111-76-2$,$ethylene glycol butyl ether$,$perfect match$,$perfect$,$both$,$111-76-2$,$111-76-2$,$$,$111-76-2$,$['112-34-5']$,$111-76-2$,$d:2021-10-07$,$$,$$
 $111-76-2$,$ethylene glycol mombutyl ether$,$perfect match$,$close_match$,$both$,$111-76-2$,$111-76-2$,$$,$111-76-2$,$$,$111-76-2$,$d:2021-10-07$,$$,$$
+$111-76-2$,$ethylene glycol momobutyl ether$,$perfect match$,$close_match$,$both$,$111-76-2$,$111-76-2$,$ethylene glycol monobutyl ether$,$111-76-2$,$$,$111-76-2$,$d:2021-12-18$,$$,$$
 $111-76-2$,$ethylene glycol monbutyl ether$,$perfect match$,$close_match$,$both$,$111-76-2$,$111-76-2$,$$,$111-76-2$,$$,$111-76-2$,$d:2021-10-07$,$$,$$
 $111-76-2$,$ethylene glycol monobuthyl ether$,$perfect match$,$close_match$,$both$,$111-76-2$,$111-76-2$,$$,$111-76-2$,$$,$111-76-2$,$d:2021-10-07$,$$,$$
 $111-76-2$,$ethylene glycol monobutty ether$,$perfect match$,$close_match$,$both$,$111-76-2$,$111-76-2$,$$,$111-76-2$,$$,$111-76-2$,$d:2021-10-07$,$$,$$
@@ -4590,6 +4591,7 @@ $14808-60-7$,$crystallline silica, quartz$,$perfect match$,$no_match$,$CAS_only$
 $14808-60-7$,$crystallline silica, quartz (sio2)$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$$,$non_spec$,$unk$,$14808-60-7$,$d:2021-10-07$,$$,$$
 $14808-60-7$,$crystialline silica$,$perfect match$,$close_match$,$both$,$14808-60-7$,$14808-60-7$,$$,$14808-60-7$,$$,$14808-60-7$,$d:2021-10-07$,$$,$$
 $14808-60-7$,$crystiallinie silica, quartz$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$$,$non_spec$,$unk$,$14808-60-7$,$d:2021-10-07$,$$,$$
+$14808-60-7$,$crystiline silica$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$unk$,$non_spec$,$unk$,$14808-60-7$,$d:2021-12-18$,$$,$$
 $14808-60-7$,$crystilline silica, quartz$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$$,$non_spec$,$unk$,$14808-60-7$,$d:2021-10-07$,$$,$$
 $14808-60-7$,$crystinalline silica, quartz$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$$,$non_spec$,$unk$,$14808-60-7$,$d:2021-10-07$,$$,$$
 $14808-60-7$,$crystline silica$,$perfect match$,$no_match$,$CAS_only$,$14808-60-7$,$14808-60-7$,$$,$non_spec$,$unk$,$14808-60-7$,$d:2021-10-07$,$$,$$
@@ -5759,6 +5761,7 @@ $26836-07-7$,$dodecylbenzenesulphonic acid, compound with 2-aminoethanol (1:1)$,
 $26836-07-7$,$ethanolamine dodecylbenzenesulfonate$,$perfect match$,$perfect$,$both$,$26836-07-7$,$26836-07-7$,$$,$26836-07-7$,$$,$26836-07-7$,$d:2021-10-07$,$$,$$
 $26836-07-7 104-76-7 9043-30-5 9003-11-6$,$dodecylbenzenesulfonic acid, monoethanolamine salt ethylhexanol poly (oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy- polyalkylene glycol$,$ambiguousID$,$no_match$,$neither$,$$,$multiple chem$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $2687-96-6$,$n-dodecyl-2-pyrrolidone$,$corrected$,$perfect$,$both$,$$,$2687-96-9$,$$,$2687-96-9$,$$,$2687-96-9$,$d:2021-10-07$,$$,$$
+$2687-96-9$,$1-dodecyl-2-pyrrolidine$,$perfect match$,$close_match$,$both$,$2687-96-9$,$2687-96-9$,$1-dodecyl-2-pyrrolidinone$,$2687-96-9$,$$,$2687-96-9$,$d:2021-12-18$,$$,$$
 $2687-96-9$,$1-dodecyl-2-pyrrolidone$,$perfect match$,$perfect$,$both$,$2687-96-9$,$2687-96-9$,$$,$2687-96-9$,$$,$2687-96-9$,$d:2021-10-07$,$$,$$
 $2687-96-9$,$n-dodecyl-2 pyrrolidone$,$perfect match$,$close_match$,$both$,$2687-96-9$,$2687-96-9$,$$,$2687-96-9$,$$,$2687-96-9$,$d:2021-10-07$,$$,$$
 $2687-96-9$,$n-dodecyl-2-pyrrolid one$,$perfect match$,$close_match$,$both$,$2687-96-9$,$2687-96-9$,$$,$2687-96-9$,$$,$2687-96-9$,$d:2021-10-07$,$$,$$
@@ -5891,6 +5894,7 @@ $29694-85-7$,$phenol, 4,4(1-methylethylidene) bis-, polymer with methyloxirane$,
 $29694-85-7$,$phenol, 4-4 (1-methylethylidene) bis-,polymer with methyloxirane$,$deprecated and corrected$,$no_match$,$CAS_only$,$valid_but_empty$,$37353-75-6$,$$,$non_spec$,$unk$,$37353-75-6$,$d:2021-10-07$,$$,$$
 $29694-85-7$,$phenol, 4-4(1-methylethylidene) bis-, polymer with methyloxirane$,$deprecated and corrected$,$no_match$,$CAS_only$,$valid_but_empty$,$37353-75-6$,$$,$non_spec$,$unk$,$37353-75-6$,$d:2021-10-07$,$$,$$
 $29694-85-7$,$phenol, 4-4(1-methylethylidene) bis-polymer with methyloxirane$,$deprecated and corrected$,$no_match$,$CAS_only$,$valid_but_empty$,$37353-75-6$,$$,$non_spec$,$unk$,$37353-75-6$,$d:2021-10-07$,$$,$$
+$29694-85-7$,$phenol, 4-4(1-methylethylidene) bis0, polymer with methyloxirane$,$deprecated and corrected$,$no_match$,$CAS_only$,$valid_but_empty$,$37353-75-6$,$unk$,$non_spec$,$unk$,$37353-75-6$,$d:2021-12-18$,$$,$$
 $29712-30-9$,$phosphonic acid (dimethylamino) methylene) bis$,$perfect match$,$no_match$,$CAS_only$,$29712-30-9$,$29712-30-9$,$$,$non_spec$,$unk$,$29712-30-9$,$d:2021-10-07$,$$,$$
 $29712-30-9$,$phosphonic acid {(dimethylamino) methylene} bis$,$perfect match$,$no_match$,$CAS_only$,$29712-30-9$,$29712-30-9$,$$,$non_spec$,$unk$,$29712-30-9$,$d:2021-10-07$,$$,$$
 $29712-30-9$,$phosphonic acid {(dimethylamino) methylene} bis-$,$perfect match$,$no_match$,$CAS_only$,$29712-30-9$,$29712-30-9$,$$,$non_spec$,$unk$,$29712-30-9$,$d:2021-10-07$,$$,$$
@@ -6393,6 +6397,7 @@ $35656-77-3$,$bishexamethylenetriamine penta methylene phosphonic acid salt$,$co
 $35657-77-3$,$bis(hexamethlene)triamine penta(methylene phosphonic acid) salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
 $35657-77-3$,$bis(hexamethylene)triamine penta (methylene phosphonic acid), sodium salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
 $35657-77-3$,$bis(hexamethylene)triamine penta(methlene phosphonic acid) salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
+$35657-77-3$,$bis(hexamethylene)triamine penta(methylene phosohonic acid) salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$unk$,$non_spec$,$unk$,$35657-77-3$,$d:2021-12-18$,$$,$$
 $35657-77-3$,$bis(hexamethylene)triamine penta(methylene phosphonic acid) salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
 $35657-77-3$,$bis(hexamethylene)triamine penta(methylene phosphonic acid)salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
 $35657-77-3$,$bis(hexamethylene)triamine penta(methylenephosphonic acid) sodium salt$,$perfect match$,$no_match$,$CAS_only$,$35657-77-3$,$35657-77-3$,$$,$non_spec$,$unk$,$35657-77-3$,$d:2021-10-07$,$$,$$
@@ -9937,6 +9942,7 @@ $67-48-1$,$chholine chloride$,$perfect match$,$close_match$,$both$,$67-48-1$,$67
 $67-48-1$,$chloline chloride$,$perfect match$,$close_match$,$both$,$67-48-1$,$67-48-1$,$$,$67-48-1$,$$,$67-48-1$,$d:2021-10-07$,$$,$$
 $67-48-1$,$chlorine chloride$,$perfect match$,$no_match$,$CAS_only$,$67-48-1$,$67-48-1$,$$,$non_spec$,$unk$,$67-48-1$,$d:2021-10-07$,$$,$$
 $67-48-1$,$choline$,$perfect match$,$no_match$,$CAS_only$,$67-48-1$,$67-48-1$,$$,$non_spec$,$unk$,$67-48-1$,$d:2021-10-07$,$$,$$
+$67-48-1$,$choline chlorid$,$perfect match$,$close_match$,$both$,$67-48-1$,$67-48-1$,$choline chloride$,$67-48-1$,$$,$67-48-1$,$d:2021-12-18$,$$,$$
 $67-48-1$,$choline chloride$,$perfect match$,$perfect$,$both$,$67-48-1$,$67-48-1$,$$,$67-48-1$,$$,$67-48-1$,$d:2021-10-07$,$$,$$
 $67-48-1$,$choline chloride ((2-hydroxyethyl) trimethyl ammonium chloride)$,$perfect match$,$no_match$,$CAS_only$,$67-48-1$,$67-48-1$,$$,$non_spec$,$unk$,$67-48-1$,$d:2021-10-07$,$$,$$
 $67-48-1$,$choline chloride aqueous solution$,$perfect match$,$no_match$,$CAS_only$,$67-48-1$,$67-48-1$,$$,$non_spec$,$unk$,$67-48-1$,$d:2021-10-07$,$$,$$
@@ -15052,10 +15058,10 @@ $7786-30-3$,$organic salt #1$,$perfect match$,$no_match$,$CAS_only$,$7786-30-3$,
 $7786-30-3$,$organic salt #2$,$perfect match$,$no_match$,$CAS_only$,$7786-30-3$,$7786-30-3$,$$,$non_spec$,$unk$,$7786-30-3$,$d:2021-10-07$,$$,$$
 $7786-81-4$,$nickel chelate catalyst$,$perfect match$,$perfect$,$CAS_only$,$7786-81-4$,$7786-81-4$,$$,$non_spec$,$$,$7786-81-4$,$d:2021-10-07$,$$,$$
 $7786-81-4$,$nickel sulfate$,$perfect match$,$perfect$,$both$,$7786-81-4$,$7786-81-4$,$$,$7786-81-4$,$$,$7786-81-4$,$d:2021-10-07$,$$,$$
-$7789-20-0$,$carrier / base fluid - water$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier – too expensive. More likely a sloppy data entry$
+$7789-20-0$,$carrier / base fluid - water$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier ??? too expensive. More likely a sloppy data entry$
 $7789-20-0$,$deuterium oxide$,$perfect match$,$perfect$,$both$,$7789-20-0$,$7789-20-0$,$$,$7789-20-0$,$$,$7789-20-0$,$d:2021-10-07$,$$,$$
-$7789-20-0$,$fresh water$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier – too expensive. More likely a sloppy data entry$
-$7789-20-0$,$sodium polycarboxylate$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a likey ingredient; since IngredientName does not even support a “water” designation, we mark as ambigious$
+$7789-20-0$,$fresh water$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a very likely carrier ??? too expensive. More likely a sloppy data entry$
+$7789-20-0$,$sodium polycarboxylate$,$perfect match$,$no_match$,$resolved_by_curation$,$7789-20-0$,$7789-20-0$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$d:2021-12-10$,$Heavy water is not a likey ingredient; since IngredientName does not even support a ???water??? designation, we mark as ambigious$
 $7789-20-0$,$water$,$perfect match$,$perfect$,$conflict$,$7789-20-0$,$7789-20-0$,$$,$7732-18-5$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7789-20-02$,$water$,$corrected$,$perfect$,$both$,$$,$7732-18-5$,$$,$7732-18-5$,$$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7789-38-0$,$ammonium persulfate$,$perfect match$,$perfect$,$conflict$,$7789-38-0$,$7789-38-0$,$$,$7727-54-0$,$$,$conflictingID$,$d:2021-10-07$,$$,$$

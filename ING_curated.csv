@@ -259,7 +259,7 @@ $1,3-propanediol, 2-amino-2-polymer$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:
 $1,3-propanediol, 2-bromo-2-nitrol$,$1,3-propanediol, 2-bromo-2-nitro-$,$52-51-7$,$close_match$,$0.9696969697$,$$,$d:2021-10-03$,$$,$$
 $1,3-propanediol,2-armino-2(hydroxymet hyl)-, polumer with methyloxirane and oxirane$,$1,3-propanediol, 2-amino-2-(hydroxymethyl)-, polymer with 2-methyloxirane and oxirane$,$68133-47-1$,$close_match$,$0.9523809524$,$$,$d:2021-10-03$,$$,$$
 $1,363,200 lbs$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$1,4-benzenedicarboxylic acid, polymer with 1,2-ethanediol and a-hydro-w-hydroxypoly(oxy-1,2-ethanediyl)$,$1,4-benzenedicarboxylic acid, polymer with 1,2-ethanediol and α-hydro-ω-hydroxypoly(oxy-1,2-ethanediyl)$,$9016-88-0$,$close_match$,$0.9805825243$,$$,$d:2021-10-03$,$$,$$
+$1,4-benzenedicarboxylic acid, polymer with 1,2-ethanediol and a-hydro-w-hydroxypoly(oxy-1,2-ethanediyl)$,$1,4-benzenedicarboxylic acid, polymer with 1,2-ethanediol and ??-hydro-??-hydroxypoly(oxy-1,2-ethanediyl)$,$9016-88-0$,$close_match$,$0.9805825243$,$$,$d:2021-10-03$,$$,$$
 $1,4-dibromo-2,5-difluorobenzene$,$1,4-dibromo-2,5-difluorobenzene$,$327-51-5$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $1,4-dioxane$,$1,4-dioxane$,$123-91-1$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $1,4-dioxane (impurity)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -334,6 +334,7 @@ $1-deconol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $1-dodecane sulfonic acid, hydroxy-, sodium salt$,$1-dodecanesulfonic acid, hydroxy-, sodium salt$,$128824-30-6$,$close_match$,$0.9892473118$,$$,$d:2021-10-03$,$$,$$
 $1-dodecanesulfonic acid, hydroxy-, sodium salt$,$1-dodecanesulfonic acid, hydroxy-, sodium salt$,$128824-30-6$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $1-dodecene$,$1-dodecene$,$112-41-4$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
+$1-dodecyl-2-pyrrolidine$,$1-dodecyl-2-pyrrolidinone$,$2687-96-9$,$close_match$,$0.9583333333$,$$,$d:2021-12-18$,$$,$$
 $1-dodecyl-2-pyrrolidone$,$1-dodecyl-2-pyrrolidone$,$2687-96-9$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $1-eicosene$,$1-eicosene$,$3452-07-1$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $1-ethanol-2-thiol$,$1-ethanol-2-thiol$,$60-24-2$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
@@ -2599,7 +2600,7 @@ $alcool ethoxylate surfactants$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-
 $alcools, c10-16, ethoxylated$,$alcohols, c10-16, ethoxylated$,$non_spec$,$conflicting_matches$,$0.9824561404$,$['66455-15-0', '68002-97-1', '68551-12-2']$,$d:2021-10-03$,$$,$$
 $alcools, c12-16, ethoxylated$,$alcohols, c12-16, ethoxylated$,$non_spec$,$conflicting_matches$,$0.9824561404$,$['68131-39-5', '68213-23-0', '68551-12-2']$,$d:2021-10-03$,$$,$$
 $alcoxy alcohol sulfate salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$aldehyde$,$aldehyde$,$non_spec$,$curated$,$1.0$,$$,$d:2021-10-03$,$d:2021-10-06$,$in the FF context, this should not be “acetaldehyde”, Non_spec$
+$aldehyde$,$aldehyde$,$non_spec$,$curated$,$1.0$,$$,$d:2021-10-03$,$d:2021-10-06$,$in the FF context, this should not be ???acetaldehyde???, Non_spec$
 $aldol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $aldylamine halide salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $aledehyde$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -4307,6 +4308,7 @@ $bis(hexamethylene triamone penta(methylene phoshonic acid) (bhmt))$,$unk$,$non_
 $bis(hexamethylene) triamine penta(methylene phosphonic acid)$,$bis(hexamethylenetriamine)penta(methylenephosphonic acid)$,$34690-00-1$,$close_match$,$0.9572649573$,$$,$d:2021-10-03$,$$,$$
 $bis(hexamethylene)triamine penta (methylene phosphonic acid), sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $bis(hexamethylene)triamine penta(methlene phosphonic acid) salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$bis(hexamethylene)triamine penta(methylene phosohonic acid) salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-18$,$$,$$
 $bis(hexamethylene)triamine penta(methylene phosphonic acid) salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $bis(hexamethylene)triamine penta(methylene phosphonic acid)salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-07$,$$,$$
 $bis(hexamethylene)triamine penta(methylenephosphonic acid) sodium salt$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -5001,6 +5003,7 @@ $chlorus acid, sodium salt$,$chlorous acid, sodium salt$,$7758-19-2$,$close_matc
 $chlroine dioxide (gas)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $choline$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $choline bicarbonate$,$choline bicarbonate$,$78-73-9$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
+$choline chlorid$,$choline chloride$,$67-48-1$,$close_match$,$0.9677419355$,$$,$d:2021-12-18$,$$,$$
 $choline chloride$,$choline chloride$,$67-48-1$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $choline chloride ((2-hydroxyethyl) trimethyl ammonium chloride)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $choline chloride aqueous solution$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -5770,6 +5773,7 @@ $crystallline silica, quartz (sio2)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:
 $crystialline silica$,$crystalline silica$,$14808-60-7$,$close_match$,$0.972972973$,$$,$d:2021-10-03$,$$,$$
 $crystialline silica: cristobalite$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $crystiallinie silica, quartz$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$crystiline silica$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-18$,$$,$$
 $crystilline silica, quartz$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $crystinalline silica, quartz$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $crystline silica$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -7059,7 +7063,7 @@ $ethanol, 2-[2-(2-butoxyethoxy)ethoxy]$,$ethanol, 2-[2-(2-butoxyethoxy)ethoxy]-$
 $ethanol, 2-[2-(2-butoxyethoxy)ethoxy]-$,$ethanol, 2-[2-(2-butoxyethoxy)ethoxy]-$,$143-22-6$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $ethanol, 2-amino$,$ethanol, 2-amino$,$141-43-5$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $ethanol, 2-amino-, 1-acetate (1:1)$,$ethanol, 2-amino-, acetate (1:1)$,$54300-24-2$,$close_match$,$0.9696969697$,$$,$d:2021-10-03$,$$,$$
-$ethanol, 2-amino-, polymer with a tridecyl-w-hydroxypoly(oxy-1,2-ethanediyl) phosphate$,$ethanol, 2-amino-, polymer with α-tridecyl-ω-hydroxypoly(oxy-1,2-ethanediyl) phosphate$,$68425-75-2$,$close_match$,$0.9651162791$,$$,$d:2021-10-03$,$$,$$
+$ethanol, 2-amino-, polymer with a tridecyl-w-hydroxypoly(oxy-1,2-ethanediyl) phosphate$,$ethanol, 2-amino-, polymer with ??-tridecyl-??-hydroxypoly(oxy-1,2-ethanediyl) phosphate$,$68425-75-2$,$close_match$,$0.9651162791$,$$,$d:2021-10-03$,$$,$$
 $ethanol, 2-butoxy$,$ethanol, 2-butoxy-$,$111-76-2$,$close_match$,$0.9714285714$,$$,$d:2021-10-03$,$$,$$
 $ethanol, 2-butoxy-$,$ethanol, 2-butoxy-$,$111-76-2$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $ethanol, ethyl alcohol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -7500,6 +7504,7 @@ $ethylene glycol ethylene glycol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:202
 $ethylene glycol ethylene glycol ethylene glycol$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $ethylene glycol ethylene glycol ethylene glycol ethylene glycol ethylene glycol ethylene glycol ethylene glycol ethylene glycol ethylene glyco$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $ethylene glycol mombutyl ether$,$ethylene glycol monobutyl ether$,$111-76-2$,$close_match$,$0.9508196721$,$$,$d:2021-10-03$,$$,$$
+$ethylene glycol momobutyl ether$,$ethylene glycol monobutyl ether$,$111-76-2$,$close_match$,$0.9677419355$,$$,$d:2021-12-18$,$$,$$
 $ethylene glycol monbutyl ether$,$ethylene glycol monobutyl ether$,$111-76-2$,$close_match$,$0.9836065574$,$$,$d:2021-10-03$,$$,$$
 $ethylene glycol monobuthyl ether$,$ethylene glycol monobutyl ether$,$111-76-2$,$close_match$,$0.9841269841$,$$,$d:2021-10-03$,$$,$$
 $ethylene glycol monobutty ether$,$ethylene glycol monobutyl ether$,$111-76-2$,$close_match$,$0.9677419355$,$$,$d:2021-10-03$,$$,$$
@@ -9413,7 +9418,7 @@ $maleic anhydride terpolymer$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10
 $maltodextrin$,$maltodextrin$,$9050-36-6$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $manganese (ii) chloride$,$manganese (ii) chloride$,$7773-01-5$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $manganese enzymes$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$mannan endo-1,4-b-mannosidase$,$mannan endo-1,4-β-mannosidase$,$37288-54-3$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
+$mannan endo-1,4-b-mannosidase$,$mannan endo-1,4-??-mannosidase$,$37288-54-3$,$close_match$,$0.9655172414$,$$,$d:2021-10-03$,$$,$$
 $mannan endo-1,4-bmannosidase$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $mannanase$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $mannanase  enzymes$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -11593,6 +11598,7 @@ $phenol, 4,4(1-methylethylidene) bis-, polymer with methyloxirane$,$unk$,$non_sp
 $phenol, 4-4 (1-methylethylidene) bis-,polymer with methyloxirane$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $phenol, 4-4(1-methylethylidene) bis-, polymer with methyloxirane$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $phenol, 4-4(1-methylethylidene) bis-polymer with methyloxirane$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
+$phenol, 4-4(1-methylethylidene) bis0, polymer with methyloxirane$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-12-18$,$$,$$
 $phenol, 4-methoxy$,$phenol, 4-methoxy-$,$150-76-5$,$close_match$,$0.9714285714$,$$,$d:2021-10-03$,$$,$$
 $phenol, 4-nonyl-$,$phenol, 4-nonyl-$,$104-40-5$,$perfect$,$1.0$,$$,$d:2021-10-03$,$$,$$
 $phenol, formaldehyde resin$,$phenol formaldehyde resin$,$9003-35-4$,$close_match$,$0.9803921569$,$$,$d:2021-10-03$,$$,$$
@@ -12073,10 +12079,10 @@ $poly (oxy-1,2-ethanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-,branched$,$
 $poly (oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9915966387$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy- complex alkylamine$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), .alpha.-isodecyle-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9833333333$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly (oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly (oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly (oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), α-isotridecyl-ω-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9504950495$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly (oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
+$poly (oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), ??-isotridecyl-??-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9504950495$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
+$poly (oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), alpha (40nonylphenyl)-omega-hydroxy-branch ed$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly (oxy-1,2-ethanediyl), alpha hexyl -omega-hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-hexyl-omega-hydroxy$,$non_spec$,$conflicting_matches$,$0.9523809524$,$['31726-34-8', '34398-01-1']$,$d:2021-10-03$,$$,$$
@@ -12232,7 +12238,7 @@ $poly(oxy- 1,2-ethanediyl),alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly
 $poly(oxy-,1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy,n ranched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9722222222$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-01,2-ethanediyl), alpha hexyl-omega-hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-hexyl-omega-hydroxy$,$non_spec$,$conflicting_matches$,$0.9615384615$,$['31726-34-8', '34398-01-1']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1 ,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9915966387$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1 ,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1 ,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1 ,2-ethanediyl), alpha hexyl - omega-hydroxy-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1 ,2-ethanediyl), alpha hexyl-omega-hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-hexyl-omega-hydroxy$,$non_spec$,$conflicting_matches$,$0.9615384615$,$['31726-34-8', '34398-01-1']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1 ,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9861111111$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
@@ -12253,12 +12259,12 @@ $poly(oxy-1, 2-ethanediyl), .alpha.-isodecyl.-omega.-hydroxy-$,$poly(oxy-1,2-eth
 $poly(oxy-1, 2-ethanediyl), .alpha.-tridecyl-.omega.-hydroxy-, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), .alpha.-tridecyl-.omega.-hydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), a tridecyl-w-hydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1, 2-ethanediyl), a-(4-nonylphenyl)-2-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1, 2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1, 2-ethanediyl), a-tridecyl-?-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1, 2-ethanediyl), a-(4-nonylphenyl)-2-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1, 2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9612403101$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1, 2-ethanediyl), a-tridecyl-?-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), a-tridecyl-w-hydroxy, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), a-tridecyl-w-hydroxy,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1, 2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1, 2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), alpha(4-nonylphenyl) omega-hydroxy-branched)$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.951048951$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), alpha-(4-nonphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.979020979$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9931034483$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
@@ -12287,7 +12293,7 @@ $poly(oxy-1, 2-ethanediyl); alpha-(4-nonlphenyl)-omega-hydroxy-branched$,$poly(o
 $poly(oxy-1, 2-ethanediyl, alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9743589744$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1, 2-thanedlyl), a-isotridecyl-w-hydroxy-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9914529915$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,-ethanediyl),alpha(4-nonylphenyl)-omega-hydroxy-branched)$,$poly(oxy-1,2-ethanediyl),alpha-(4-nonylphenyl)-omega-hydroxy-,branched$,$non_spec$,$conflicting_matches$,$0.9710144928$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,1-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.979020979$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,1-ethanediyl), alpha-(nonylphenyl)- omega-hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-(nonylphenyl)-omega-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9752066116$,$['9014-93-1', '9016-45-9']$,$d:2021-10-03$,$$,$$
@@ -12358,7 +12364,7 @@ $poly(oxy-1,2-ethanediyl) alpha-(4-nonylphenyl)-omega hydroxy:branched$,$poly(ox
 $poly(oxy-1,2-ethanediyl) alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.993006993$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl) alpha-tridecyl-omega-hydroxy-branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl),$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), -sulfo-hydroxy-, c10-16-alkyl ethers, ammonium salts$,$poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, c10-16-alkyl ethers, ammonium salts$,$non_spec$,$conflicting_matches$,$0.9811320755$,$['67762-19-0', '68891-29-2', '75422-21-8']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), -sulfo-hydroxy-, c10-16-alkyl ethers, ammonium salts$,$poly(oxy-1,2-ethanediyl), ??-sulfo-??-hydroxy-, c10-16-alkyl ethers, ammonium salts$,$non_spec$,$conflicting_matches$,$0.9811320755$,$['67762-19-0', '68891-29-2', '75422-21-8']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), .alpha.-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), .alpha.- isodecyl - omega - hydroxyl - glycerine$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), .alpha.- isodecyl-.omega.-hydroxy$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9830508475$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
@@ -12411,31 +12417,31 @@ $poly(oxy-1,2-ethanediyl), .alpha.-undecyl-.omega.-hydroxy-, branched and linear
 $poly(oxy-1,2-ethanediyl), .alpha.0isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9830508475$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), .alphaisodecy.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9649122807$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), .apla.-tidecyl-.omega.-hydroxy-, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), ?-tridecyl-?-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9649122807$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), ?-tridecyl-?-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9649122807$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a tridecyl-w-hydroxy-, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a- isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), α-isotridecyl-ω-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9504950495$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy- branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9606299213$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.96875$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a- isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), ??-isotridecyl-??-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9504950495$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy- branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9606299213$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.96875$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl),a-(nonylphenyl)-w- hydroxy-,branched$,$non_spec$,$conflicting_matches$,$0.9677419355$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-branched$,$poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-branched$,$non_spec$,$conflicting_matches$,$0.9677419355$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-(4-nonylphenyl)-w-hydroxy-branched$,$poly(oxy-1,2-ethanediyl), ??-(4-nonylphenyl)-??-hydroxy-branched$,$non_spec$,$conflicting_matches$,$0.9677419355$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-(9z)-1-oxo-9-octadecen -1-yl-w-hydroxy-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-(9z)-1-oxo-9-octadecen-1-yl-w-hydro xy-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$61723-83-9$,$close_match$,$0.9801980198$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$poly(oxy-1,2-ethanediyl), ??-hydro-??-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$61723-83-9$,$close_match$,$0.9801980198$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-, ether with d-glucitol, tetra-(9z)-9-octadecenoate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-, mono-c10-14-alkyl esthers, phosphates$,$poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, mono-c10-14-alkyl ethers, phosphates$,$non_spec$,$conflicting_matches$,$0.9696969697$,$['68130-47-2', '68585-36-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-, mono-c10-14-alkyl esthers, phosphates$,$poly(oxy-1,2-ethanediyl), ??-hydro-??-hydroxy-, mono-c10-14-alkyl ethers, phosphates$,$non_spec$,$conflicting_matches$,$0.9696969697$,$['68130-47-2', '68585-36-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-hydro-w-hydroxy-,ether with d-glucitol, tetra(9z)-9-octadecenoate$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-isotidecyl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), α-isotridecyl-ω-hydroxy-$,$non_spec$,$conflicting_matches$,$0.96$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-isotridecyl-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), ??-isotridecyl-??-hydroxy-$,$non_spec$,$conflicting_matches$,$0.96$,$['24938-91-8', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydrocy-, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy$,$poly(oxy-1,2-ethanediyl),a-tridecyl-w-hydroxy-$,$24938-91-8$,$close_match$,$0.9782608696$,$$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, -branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9649122807$,$$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, -branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9565217391$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9649122807$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-tridecyl-w-hydroxy-branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), a-tridecyl-x-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), a-tridecyl-x-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), a-tridecylpwphydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl), ahydro-whydroxy, mono-c10-14-alkyl ethers, phosphates$,$poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, mono-c10-14-alkyl ethers, phosphates$,$non_spec$,$conflicting_matches$,$0.9565217391$,$['68130-47-2', '68585-36-4']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl), ahydro-whydroxy, mono-c10-14-alkyl ethers, phosphates$,$poly(oxy-1,2-ethanediyl), ??-hydro-??-hydroxy-, mono-c10-14-alkyl ethers, phosphates$,$non_spec$,$conflicting_matches$,$0.9565217391$,$['68130-47-2', '68585-36-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), alha hexyl - omega-hydroxy$,$poly(oxy-1,2-ethanediyl), alpha-hexyl-omega-hydroxy$,$31726-34-8$,$close_match$,$0.9514563107$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), alpa-(nonylphenyl)-omega-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), alpha-(nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9855072464$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl), alph-(4-nonyphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.985915493$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
@@ -12598,7 +12604,7 @@ $poly(oxy-1,2-ethanediyl),a-hexl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$u
 $poly(oxy-1,2-ethanediyl),a-hydro-hydroxy- ethane-1,2-diol, ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl),a-hydro-w-hydroxy- ethane-1,2-diol, ethoxylated$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl),a-tredecyl-w-hydroxy$,$poly(oxy-1,2-ethanediyl),a-tridecyl-w-hydroxy-$,$24938-91-8$,$close_match$,$0.967032967$,$$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl),a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl),a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl),a-tridecyl-w-hydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl),a-undecyl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-07$,$$,$$
 $poly(oxy-1,2-ethanediyl),alpa.-isodecyl-.omega-hydroxy$,$poly(oxy-1,2-ethanediyl),alpha-isodecyl-omega-hydroxy-$,$61827-42-7$,$close_match$,$0.962962963$,$$,$d:2021-10-03$,$$,$$
@@ -12661,12 +12667,12 @@ $poly(oxy-1,2-ethanediyl)-nonylphenyl-hy droxy$,$unk$,$non_spec$,$no_match$,$0.0
 $poly(oxy-1,2-ethanediyl)-nonylphenyl-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl)-omega-hydroxy-, branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl)-omega-hydroxy-,branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl). a-hydro-w-hydroxy-,ether with d-glucitol(2:1), tetra-(9z)-9-octadecenoate$,$poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$61723-83-9$,$close_match$,$0.96$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl). a-hydro-w-hydroxy-,ether with d-glucitol(2:1), tetra-(9z)-9-octadecenoate$,$poly(oxy-1,2-ethanediyl), ??-hydro-??-hydroxy-, ether with d-glucitol (2:1), tetra-(9z)-9-octadecenoate$,$61723-83-9$,$close_match$,$0.96$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl).,.alpha.-isodecyl-.ome ga.-hydroxy$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9661016949$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl)..alpha.-(4-nonylphenyl)-.omega.-hydroxy, branched$,$poly(oxy-1,2-ethanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9733333333$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl).alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$127087-87-0$,$close_match$,$0.979020979$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl, .alpha.-(4-nonylphenyl)-,omega.-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9733333333$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-ethanediyl, a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-ethanediyl, a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl, alpha, -(4-nonylphenyl),-omega,hydroxy,-branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl, alpha- (nonylphenyl)-omega-hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-(nonylphenyl)-omega-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9833333333$,$['9014-93-1', '9016-45-9']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethanediyl, alpha- isodecyl- omega- hydroxy-$,$poly(oxy-1,2-ethanediyl), alpha-isodecyl-omega-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9642857143$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
@@ -12707,7 +12713,7 @@ $poly(oxy-1,2-ethediyl), alpha-(4-nonylphenyl)-omega-hydroxy-,branched$,$poly(ox
 $poly(oxy-1,2-ethianediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9915966387$,$['24938-91-8', '61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-ethyanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9931034483$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-thanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-,branched$,$poly(oxy-1,2-ethanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.9866666667$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2-thanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), α-tridecyl-ω-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2-thanediyl), a-tridecyl-w-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), ??-tridecyl-??-hydroxy-, branched$,$69011-36-5$,$close_match$,$0.9557522124$,$$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-thanediyl), alpha-sulfo-emoega-hydroxy-, c10-16-alkl ethers, sodium salts$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-thanediyl), alpha-tridecyl-omega-hydroxy-branched$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2-thanediyl),.alpha.-isodecyl-.omega.-hydroxy-$,$poly(oxy-1,2-ethanediyl), .alpha.-isodecyl-.omega.-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9827586207$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
@@ -12717,7 +12723,7 @@ $poly(oxy-1,2ethanediyl), a-butyl-w-hydroxy$,$unk$,$non_spec$,$no_match$,$0.0$,$
 $poly(oxy-1,2ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.993006993$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2ethanediyl), alpha-(4-nonyphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.985915493$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2ethanediyl), alpha-isodecyl-omega-hydroxy$,$poly(oxy-1,2-ethanediyl), alpha-isodecyl-omega-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9814814815$,$['61827-42-7', '9043-30-5']$,$d:2021-10-03$,$$,$$
-$poly(oxy-1,2ethanediyl),a-[(1,1,3,3-tetramethylbutyl) phenyl]-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), α-[(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9517241379$,$['9002-93-1', '9036-19-5']$,$d:2021-10-03$,$$,$$
+$poly(oxy-1,2ethanediyl),a-[(1,1,3,3-tetramethylbutyl) phenyl]-w-hydroxy-$,$poly(oxy-1,2-ethanediyl), ??-[(1,1,3,3-tetramethylbutyl)phenyl]-??-hydroxy-$,$non_spec$,$conflicting_matches$,$0.9517241379$,$['9002-93-1', '9036-19-5']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2ethanediyl),alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$poly(oxy-1,2-ethanediyl), alpha-(4-nonylphenyl)-omega-hydroxy-, branched$,$non_spec$,$conflicting_matches$,$0.985915493$,$['127087-87-0', '68412-54-4']$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,2ethanediyl,a-[(1,1,3,3-tetramethylbutyl) phenyl]-w-hydroxy-$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
 $poly(oxy-1,ethanediyl)$,$unk$,$non_spec$,$no_match$,$0.0$,$unk$,$d:2021-10-03$,$$,$$
@@ -12812,7 +12818,7 @@ $poly[osyethylene(dimethyliminio)ethylene(dimethyliminio)eth$,$unk$,$non_spec$,$
 $poly[osyethylene(dimethyliminio)ethylene(dimethyliminio)ethylenedichloride]$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.9801324503$,$$,$d:2021-10-03$,$$,$$
 $poly[oxethylene (dimethyliminio)ethylene(dimethyliminio)ethylenedichloride]$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.9801324503$,$$,$d:2021-10-03$,$$,$$
 $poly[oxethylene(dimethyliminio)ethylen(dimethyliminio)ethylenedichloride$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.972972973$,$$,$d:2021-10-03$,$$,$$
-$poly[oxy(methl-1,2-ethanediyl)], -a-(2-aminomethylethyl)-w-(2-aminomethylethoxy)-phosphonomethylated, sodium salts$,$poly[oxy(methyl-1,2-ethanediyl)], α-(2-aminomethylethyl)-ω-(2-aminomethylethoxy)-, phosphonomethylated, sodium salts$,$1252600-17-1$,$close_match$,$0.9652173913$,$$,$d:2021-10-03$,$$,$$
+$poly[oxy(methl-1,2-ethanediyl)], -a-(2-aminomethylethyl)-w-(2-aminomethylethoxy)-phosphonomethylated, sodium salts$,$poly[oxy(methyl-1,2-ethanediyl)], ??-(2-aminomethylethyl)-??-(2-aminomethylethoxy)-, phosphonomethylated, sodium salts$,$1252600-17-1$,$close_match$,$0.9652173913$,$$,$d:2021-10-03$,$$,$$
 $poly[oxyehyylene(dimethylimino)ethelene(dimethylimino)ethylenedichloride]$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.9530201342$,$$,$d:2021-10-03$,$$,$$
 $poly[oxyethelene(dimethyliminio)ethylene(dimethyliminio)ethylenedichloride]$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.9801324503$,$$,$d:2021-10-03$,$$,$$
 $poly[oxyethelene(dimethyliminio)ethylene(dimethylimino)ethylenedichloride]$,$poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylene dichloride]$,$31512-74-0$,$close_match$,$0.9733333333$,$$,$d:2021-10-03$,$$,$$

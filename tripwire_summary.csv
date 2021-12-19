@@ -1027,14 +1027,12 @@ $17081216020000$,$ -- $,$TotalBaseWaterVolume; $,$2020-03-09$,$changes within di
 $25075214150000$,$c330ef29-78e9-46fd-aef6-d7b5e18a2abf$,$$,$2020-05-14$,$disclosure removed$
 $30005643080000$,$ -- $,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2018-12-11$,$changes within disclosure$
 $30005643110000$,$ -- $,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2018-12-11$,$changes within disclosure$
-$30015000000000$,$a767ad92-ad96-4385-8ca7-b4d9de8e3d99$,$$,$2021-12-16$,$disclosure removed$
-$30015000000000$,$a767ad92-ad96-4385-8ca7-b4d9de8e3d99$,$$,$2021-12-16$,$disclosure removed$
+$30015000000000$,$a767ad92-ad96-4385-8ca7-b4d9de8e3d99$,$$,$2021-12-18$,$disclosure removed$
 $30015146000000$,$ae889e53-6850-4a99-b66f-0956805d5c58$,$$,$2021-04-09$,$disclosure removed$
 $30015420140000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2019-03-25$,$changes within disclosure$
 $30015424110000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2019-03-25$,$changes within disclosure$
 $30015429000000$,$10def40f-9abe-4332-8b86-3951899ce14d$,$$,$2020-08-14$,$disclosure removed$
-$30015434770000$,$ -- $,$WellName; $,$2021-12-16$,$changes within disclosure$
-$30015434770000$,$ -- $,$Supplier; Purpose; WellName; TradeName; $,$2021-12-16$,$changes within disclosure$
+$30015434770000$,$fee577bf-0c7f-478c-92b8-75662198e12f$,$Purpose; WellName; Supplier; TradeName; $,$2021-12-18$,$changes within disclosure$
 $30015437740000$,$4581abb5-4904-4a6b-a598-2e308d277ebb$,$$,$2021-05-14$,$disclosure removed$
 $30015441620000$,$ -- $,$JobStartDate; WellName; $,$2021-04-14$,$changes within disclosure$
 $30015441630000$,$ -- $,$JobStartDate; $,$2021-04-14$,$changes within disclosure$
@@ -1059,8 +1057,7 @@ $30015456090000$,$83d3ed05-dbe6-41b9-a8e6-dad033be66a1$,$$,$2021-04-14$,$disclos
 $30015457220000$,$ -- $,$TotalBaseWaterVolume; $,$2019-12-23$,$changes within disclosure$
 $30015460000000$,$ae889e53-6850-4a99-b66f-0956805d5c58$,$$,$2021-04-14$,$disclosure removed$
 $30015462030000$,$ -- $,$TotalBaseNonWaterVolume; CASNumber; Supplier; APINumber; WellName; FederalWell; JobStartDate; OperatorName; StateNumber; UploadKey; TVD; TradeName; CountyName; IngredientName; JobEndDate; TotalBaseWaterVolume; PercentHighAdditive; Longitude; StateName; PercentHFJob; CountyNumber; MassIngredient; Purpose; Latitude; IndianWell; $,$2021-04-30$,$changes within disclosure$
-$30015464470000$,$d13e1d6d-38cb-4800-a2ef-52dd7adaca80$,$$,$2021-12-15$,$disclosure removed$
-$30015464470000$,$d13e1d6d-38cb-4800-a2ef-52dd7adaca80$,$$,$2021-12-16$,$disclosure removed$
+$30015464470000$,$d13e1d6d-38cb-4800-a2ef-52dd7adaca80$,$$,$2021-12-18$,$disclosure removed$
 $30015464500000$,$de9c03cd-756c-4547-a58c-2421b4a39b37$,$$,$2021-05-14$,$disclosure removed$
 $30015467460000$,$ -- $,$raw_filename; $,$2020-12-04$,$changes within disclosure$
 $30025432940000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-09-09$,$changes within disclosure$
@@ -1292,8 +1289,7 @@ $35009219960000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-11-25$,$cha
 $35011235900000$,$85c072cc-a15e-4fe2-bbc8-15594fc31582$,$$,$2018-12-11$,$disclosure removed$
 $35011238600000$,$56477a22-86f0-4a3f-87a5-948f9b242586$,$$,$2019-03-04$,$disclosure removed$
 $35011239620000$,$ -- $,$WellName; $,$2019-07-29$,$changes within disclosure$
-$35011242700000$,$92eaf33a-d7aa-4a12-bbd3-dfcfa4495722$,$$,$2021-12-16$,$disclosure removed$
-$35011242700000$,$92eaf33a-d7aa-4a12-bbd3-dfcfa4495722$,$$,$2021-12-16$,$disclosure removed$
+$35011242700000$,$92eaf33a-d7aa-4a12-bbd3-dfcfa4495722$,$$,$2021-12-18$,$disclosure removed$
 $35015239230000$,$2d201744-9432-4eb3-8c81-d01e5aea0aea$,$$,$2019-02-25$,$disclosure removed$
 $35017245360000$,$a7f0bdf9-0589-4d3d-bee5-9cbb6f9e5238$,$$,$2020-08-21$,$disclosure removed$
 $35017246760000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2019-08-12$,$changes within disclosure$
@@ -1358,7 +1354,6 @@ $35073263130000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$cha
 $35073263140000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$changes within disclosure$
 $35073263150000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$changes within disclosure$
 $35073263990000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-11-25$,$changes within disclosure$
-$35073267720000$,$eb49e6b2-b3ca-464a-a7c4-78ca22b55268$,$$,$2021-12-15$,$disclosure removed$
 $35073529560000$,$9cd4d86a-545b-47b7-b150-eb16d45e3cf2$,$$,$2019-03-04$,$disclosure removed$
 $35083244330000$,$bb7c2088-ccc3-4364-89bb-9f48978336eb$,$$,$2019-12-23$,$disclosure removed$
 $35087222260000$,$ -- $,$TotalBaseWaterVolume; $,$2019-07-05$,$changes within disclosure$
@@ -1386,31 +1381,19 @@ $37007205100000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredie
 $37007205110000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2018-12-11$,$changes within disclosure$
 $37007205120000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2018-12-11$,$changes within disclosure$
 $37007205190000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-01-23$,$changes within disclosure$
-$37007205200000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37007205200000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37007205210000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205210000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205220100$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205220100$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205230000$,$ -- $,$JobStartDate; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37007205230000$,$ -- $,$JobStartDate; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37007205240100$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205240100$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205250000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205250000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
+$37007205200000$,$3338a063-9ee5-4f12-85b7-c11c70f3237a$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37007205210000$,$6a9cfa85-98a6-4fbe-94e6-8324b9e626a9$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205220100$,$24acf0b2-3b86-41ec-9a4f-a1ddc0fbde16$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205230000$,$adffa429-b850-436c-b0d7-979807a4ad59$,$JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37007205240100$,$c63ff8e3-0d5d-4520-9e0d-74851e185f9c$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205250000$,$42ab15f9-5554-458a-8361-bca15e88b96d$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
 $37007205260000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2018-12-11$,$changes within disclosure$
-$37007205690000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205690000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205700000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37007205700000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37007205710000$,$ -- $,$JobStartDate; WellName; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37007205710000$,$ -- $,$JobStartDate; WellName; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37007205720000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205720000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205730000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37007205730000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37007205740000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37007205740000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
+$37007205690000$,$7214af6d-634a-49c3-b410-1a7f6e77811e$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205700000$,$df8c9518-b2fb-46ae-a766-354f3833755e$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37007205710000$,$920c2ae6-91fa-4794-a820-e40e4631a806$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; WellName; $,$2021-12-18$,$changes within disclosure$
+$37007205720000$,$2fbea4dc-af61-42da-b9c0-0524f36f1425$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205730000$,$4834cadb-8a01-4260-bfc9-d7f8d06df75f$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37007205740000$,$0a7de3f8-8002-4fda-9984-e7a247c075a4$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
 $37015231870000$,$ -- $,$raw_filename; $,$2020-11-26$,$changes within disclosure$
 $37015231870000$,$ -- $,$raw_filename; $,$2020-11-29$,$changes within disclosure$
 $37015231870000$,$ -- $,$raw_filename; $,$2020-12-03$,$changes within disclosure$
@@ -1422,64 +1405,60 @@ $37015236250001$,$ -- $,$WellName; Latitude; IndianWell; PercentHFJob; StateName
 $37015236260001$,$ -- $,$JobEndDate; JobStartDate; OperatorName; IngredientName; $,$2021-06-18$,$changes within disclosure$
 $37015236270001$,$ -- $,$WellName; Latitude; IndianWell; PercentHFJob; StateName; Supplier; JobStartDate; IngredientName; CountyNumber; PercentHighAdditive; MassIngredient; TradeName; TotalBaseWaterVolume; StateNumber; TVD; OperatorName; TotalBaseNonWaterVolume; APINumber; CountyName; JobEndDate; CASNumber; FederalWell; UploadKey; Longitude; Purpose; $,$2021-06-18$,$changes within disclosure$
 $37015236270001$,$a93381b4-0349-480c-82a2-ad00e0f83efe$,$$,$2021-06-26$,$disclosure removed$
-$37019223190002$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019223190002$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019225660000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019225660000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226200001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226200001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226210002$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226210002$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226220000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226220000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226320000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226320000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226330000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-09$,$changes within disclosure$
-$37019226330000$,$ -- $,$TotalBaseWaterVolume; $,$2021-12-16$,$changes within disclosure$
-$37019226340000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226340000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; CASNumber; $,$2021-12-16$,$changes within disclosure$
-$37019226360000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226360000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; CASNumber; $,$2021-12-16$,$changes within disclosure$
-$37019226380000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226380000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226560000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226560000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226570000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226570000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226580000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226580000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226590001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226590001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226600000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226600000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226780000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226780000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226800000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226800000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226820001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226820001$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226830000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226830000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226840000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226840000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019226850000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019226850000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019227400000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019227400000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019227470000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-09$,$changes within disclosure$
-$37019227470000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228080000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228080000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228090000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228090000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228100000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228100000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228110000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228110000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228120000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228120000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
-$37019228130000$,$ -- $,$JobEndDate; TotalBaseWaterVolume; JobStartDate; $,$2021-12-10$,$changes within disclosure$
-$37019228130000$,$ -- $,$JobStartDate; TotalBaseWaterVolume; JobEndDate; $,$2021-12-16$,$changes within disclosure$
+$37019223190002$,$d3f3a7cd-880a-448d-9539-a854a9a6c2af$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019225660000$,$38c606c5-a9ac-4765-a5c9-fe96c9b01dba$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226200001$,$1d6f4bd5-6f5a-478f-8117-9e092a438f06$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226210002$,$7de5d6bd-2978-47c0-a55d-78dfedaf9717$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226220000$,$b2871f39-c1c4-4dca-84ab-ac263f8e77ea$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226320000$,$7267ffb0-85a2-4ac5-ba44-d5acd006ac34$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226330000$,$e3ba344e-f38d-4540-a881-21c3582a02c3$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019226340000$,$87fa05e0-ae87-48c0-9525-2845487f0455$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; CASNumber; $,$2021-12-18$,$changes within disclosure$
+$37019226360000$,$4744eecf-0f0f-45ff-b0d6-a999e0e1ce2d$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; CASNumber; $,$2021-12-18$,$changes within disclosure$
+$37019226380000$,$f6b1cd9b-a39a-4416-99e3-c7fcf75f3412$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226560000$,$aa74ba1d-686b-45fb-bcc2-5d3ed7c59f3b$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226570000$,$5dd2eaab-f255-4cad-9034-12a1a327e339$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226580000$,$793d3fa8-e77c-4948-841f-5014b9ccc22b$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226590001$,$db745652-ce99-43c4-b929-a2b1513b5b05$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226600000$,$76ceb5dd-55c6-46e9-ac67-0493868ca9cb$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226780000$,$bea8f684-73a6-46c5-a1dd-322e8c62e6bd$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226800000$,$f05c84fd-348e-4cdd-9ed6-879a763ce928$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226820001$,$db20484a-9fd8-4c26-a9f3-0c2db7f495d6$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226830000$,$bfda6285-c3ba-4111-a94b-02181f68bd93$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226840000$,$77a57128-f119-4dcc-9aa8-af14018432c7$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019226850000$,$4d326450-41b0-4db9-937e-dd51de116e30$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019227400000$,$1186130d-f661-4a92-a748-ad07ed9b9022$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019227470000$,$69ac44e6-31ab-4935-a294-094db81c120f$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228080000$,$ac996607-9784-46c2-b4e9-b030c499fda6$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228090000$,$a6888326-34a0-4115-95ba-101191afadd7$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228100000$,$95e742e5-1cef-4f6c-98c0-f5be5ea5a0cb$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228110000$,$e3043a12-36c6-4807-bbba-39acfd53265c$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228120000$,$beb181ce-95c8-4ef6-b266-1587e22e3aea$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228130000$,$6722ec07-c516-4aa1-990f-7579ab0455f8$,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2021-12-18$,$changes within disclosure$
+$37019228260000$,$cd225a01-b2b4-4cf2-b1a2-ef3c7eb3567c$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228270000$,$f5b8f7e3-f865-4f0d-923f-c93daef97225$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228280000$,$5d19599d-187b-40fb-a18a-621735a8c9cd$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228290000$,$55928fca-fbf1-4495-8d5d-665f743910e3$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228300000$,$e4cc9451-34fa-40c4-9ebe-d6e93f73b4e2$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228330000$,$37ccd8f4-bc76-414e-8a12-62d899094965$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228340000$,$a4058a86-5f6e-47d3-a7ad-051d3a4b84c8$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228350000$,$de228d31-1064-457a-9159-72fa9cf6717b$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228360000$,$b716b3a7-b5cd-49c1-922d-23dd44221bec$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228370000$,$9609d153-8e9c-43e9-9459-140e4a1c59c6$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228380000$,$9a223eec-3cfb-4e65-9878-24dad5d39dd4$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228390000$,$ad602242-60ab-4312-837a-082bbbff1601$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228420000$,$f6bdf55d-265b-4a20-b51e-8c191663fc6c$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228430000$,$e6298ff2-00cf-4c71-91bc-9796a597631b$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228440000$,$7416d7af-bde5-452a-87a7-c73de785caf9$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228450000$,$094e0bb0-b494-4a03-9e8f-ca23ca0d1edb$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228460000$,$a8858ac5-b9da-4f96-a016-8090e2d21c03$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228470000$,$131a0bd0-694c-435c-92d5-18a06f25014d$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228480000$,$ecf04f64-35f1-44d2-bee5-a3885921b41d$,$TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228490000$,$89b3b6ca-6ea3-4cca-a996-ce1ce928d837$,$TradeName; Supplier; TotalBaseWaterVolume; MassIngredient; UploadKey; FederalWell; CASNumber; CountyName; PercentHighAdditive; StateName; Latitude; OperatorName; JobStartDate; Purpose; WellName; JobEndDate; IngredientName; StateNumber; TotalBaseNonWaterVolume; Longitude; TVD; APINumber; IndianWell; PercentHFJob; CountyNumber; $,$2021-12-18$,$changes within disclosure$
+$37019228510000$,$15d7a94d-015c-4537-bbf2-c239403ad5c5$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228530000$,$8956280c-57ed-470e-9ef0-87c09410e903$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228540000$,$d00edc5b-82ba-454e-ab1b-e0a1b4d1561e$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228550000$,$33714bd4-a9bf-4b4e-820f-bc86ea319aef$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
+$37019228570000$,$3266e009-0894-45d3-8154-b396ab995ab3$,$JobStartDate; JobEndDate; TotalBaseWaterVolume; $,$2021-12-18$,$changes within disclosure$
 $37063374740000$,$ -- $,$TotalBaseWaterVolume; JobEndDate; JobStartDate; $,$2019-02-25$,$changes within disclosure$
 $37083571930000$,$ -- $,$Supplier; $,$2020-06-26$,$changes within disclosure$
 $37083571940000$,$ -- $,$Supplier; $,$2020-06-26$,$changes within disclosure$
@@ -1508,14 +1487,10 @@ $37125282820000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredie
 $37125282830000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
 $37125282840000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
 $37125282850000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
-$37125284570000$,$ -- $,$APINumber; TotalBaseWaterVolume; JobEndDate; Latitude; JobStartDate; FederalWell; PercentHighAdditive; CountyName; IngredientName; TradeName; Longitude; UploadKey; TotalBaseNonWaterVolume; CountyNumber; TVD; StateNumber; Supplier; CASNumber; PercentHFJob; OperatorName; IndianWell; Purpose; WellName; MassIngredient; StateName; $,$2021-12-11$,$changes within disclosure$
-$37125284570000$,$ -- $,$IndianWell; Latitude; CountyName; OperatorName; PercentHFJob; Supplier; PercentHighAdditive; UploadKey; TVD; IngredientName; TotalBaseWaterVolume; JobEndDate; FederalWell; TradeName; TotalBaseNonWaterVolume; CountyNumber; APINumber; WellName; StateNumber; Longitude; StateName; MassIngredient; JobStartDate; Purpose; CASNumber; $,$2021-12-16$,$changes within disclosure$
-$37125284580000$,$ -- $,$TotalBaseNonWaterVolume; PercentHFJob; IngredientName; JobEndDate; JobStartDate; $,$2021-12-11$,$changes within disclosure$
-$37125284580000$,$ -- $,$Supplier; JobEndDate; IngredientName; PercentHighAdditive; TradeName; TotalBaseNonWaterVolume; PercentHFJob; MassIngredient; JobStartDate; Purpose; $,$2021-12-16$,$changes within disclosure$
-$37125284590000$,$ -- $,$PercentHFJob; JobEndDate; TotalBaseNonWaterVolume; JobStartDate; $,$2021-12-11$,$changes within disclosure$
-$37125284590000$,$ -- $,$Supplier; JobEndDate; IngredientName; PercentHighAdditive; TradeName; TotalBaseNonWaterVolume; PercentHFJob; MassIngredient; JobStartDate; Purpose; $,$2021-12-16$,$changes within disclosure$
-$37125284600000$,$ -- $,$PercentHFJob; JobEndDate; TotalBaseNonWaterVolume; JobStartDate; $,$2021-12-11$,$changes within disclosure$
-$37125284600000$,$ -- $,$Supplier; JobEndDate; IngredientName; PercentHighAdditive; TradeName; TotalBaseNonWaterVolume; PercentHFJob; MassIngredient; JobStartDate; Purpose; $,$2021-12-16$,$changes within disclosure$
+$37125284570000$,$bc1af453-aa77-468e-bad6-221e5c56c18f$,$Purpose; PercentHFJob; Latitude; IndianWell; CountyNumber; Longitude; CASNumber; StateNumber; FederalWell; TotalBaseWaterVolume; JobStartDate; WellName; PercentHighAdditive; UploadKey; TVD; TotalBaseNonWaterVolume; MassIngredient; StateName; JobEndDate; APINumber; CountyName; TradeName; OperatorName; Supplier; IngredientName; $,$2021-12-18$,$changes within disclosure$
+$37125284580000$,$e138f3d0-2c3c-41aa-8687-5ad71d3a1884$,$TotalBaseNonWaterVolume; IngredientName; Purpose; MassIngredient; PercentHFJob; TradeName; JobStartDate; JobEndDate; Supplier; PercentHighAdditive; $,$2021-12-18$,$changes within disclosure$
+$37125284590000$,$ca011a7a-a577-47af-8aae-aa7852f10aa0$,$TotalBaseNonWaterVolume; IngredientName; Purpose; MassIngredient; PercentHFJob; TradeName; JobStartDate; JobEndDate; Supplier; PercentHighAdditive; $,$2021-12-18$,$changes within disclosure$
+$37125284600000$,$739d3258-6634-4bbb-b59e-2c2bb992c4bc$,$TotalBaseNonWaterVolume; IngredientName; Purpose; MassIngredient; PercentHFJob; TradeName; JobStartDate; JobEndDate; Supplier; PercentHighAdditive; $,$2021-12-18$,$changes within disclosure$
 $37125286400000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
 $37125286420000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
 $37125286430000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
