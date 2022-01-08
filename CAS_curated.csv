@@ -1454,7 +1454,7 @@ $30499-70-8$,$30499-70-8$,$perfect$,$verified;normal$,$30499-70-8$,$perfect matc
 $30525-89-4$,$30525-89-4$,$perfect$,$verified;normal$,$30525-89-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $306-94-5$,$306-94-5$,$perfect$,$verified;normal$,$306-94-5$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $306-98-9$,$306-98-9$,$perfect$,$verified;normal$,$306-98-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
-$30693-53-9$,$$,$perfect$,$verified;normal$,$30693-53-9$,$perfect match$,$True$,$$,$d:2021-10-08$,$$,$test for git repo$
+$30693-53-9$,$$,$perfect$,$verified;normal$,$30693-53-9$,$perfect match$,$False$,$$,$d:2021-10-08$,$$,$test for git repo$
 $30704-64-4$,$30704-64-4$,$perfect$,$verified;normal$,$30704-64-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $308074-31-9$,$308074-31-9$,$perfect$,$verified;normal$,$308074-31-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $308075-07-2$,$308075-07-2$,$perfect$,$verified;normal$,$308075-07-2$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -2959,6 +2959,7 @@ $85-44-9$,$85-44-9$,$perfect$,$verified;normal$,$85-44-9$,$perfect match$,$False
 $85-85-0$,$$,$unk$,$unk$,$65-85-0$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $85409-23$,$$,$unk$,$unk$,$85409-23-0$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $85409-23-0$,$85409-23-0$,$perfect$,$verified;normal$,$85409-23-0$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$85422-93-1$,$$,$perfect$,$verified;normal$,$85422-93-1$,$perfect match$,$True$,$$,$d:2022-01-07$,$$,$$
 $85536-14-7$,$85536-14-7$,$perfect$,$verified;normal$,$85536-14-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $85566-12-4$,$$,$unk$,$unk$,$85566-12-7$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $85566-12-7$,$85566-12-7$,$perfect$,$verified;normal$,$85566-12-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
