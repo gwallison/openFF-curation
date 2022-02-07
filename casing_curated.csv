@@ -1210,6 +1210,7 @@ $10043-35-3 / 1310-73-2$,$boric acid / sodium hydroxide$,$ambiguousID$,$no_match
 $10043-35-31$,$boric acid$,$corrected$,$perfect$,$both$,$$,$10043-35-3$,$$,$10043-35-3$,$$,$10043-35-3$,$d:2021-10-07$,$$,$$
 $10043-365-3$,$borate salt$,$corrected$,$close_match$,$CAS_only$,$$,$10043-35-3$,$$,$non_spec$,$$,$10043-35-3$,$d:2021-10-07$,$$,$$
 $10043-52-4$,$brine water$,$perfect match$,$no_match$,$CAS_only$,$10043-52-4$,$10043-52-4$,$$,$non_spec$,$unk$,$10043-52-4$,$d:2021-10-07$,$$,$$
+$10043-52-4$,$caci2$,$perfect match$,$no_match$,$CAS_only$,$10043-52-4$,$10043-52-4$,$unk$,$non_spec$,$unk$,$10043-52-4$,$D:2022-02-06$,$$,$$
 $10043-52-4$,$cacl2$,$perfect match$,$perfect$,$both$,$10043-52-4$,$10043-52-4$,$$,$10043-52-4$,$$,$10043-52-4$,$d:2021-10-07$,$$,$$
 $10043-52-4$,$calciium chloride$,$perfect match$,$close_match$,$both$,$10043-52-4$,$10043-52-4$,$$,$10043-52-4$,$$,$10043-52-4$,$d:2021-10-07$,$$,$$
 $10043-52-4$,$calcium  chloride$,$perfect match$,$close_match$,$both$,$10043-52-4$,$10043-52-4$,$$,$10043-52-4$,$$,$10043-52-4$,$d:2021-10-07$,$$,$$
@@ -1392,6 +1393,7 @@ $102-71-6$,$triethanolamine of ethanol$,$perfect match$,$no_match$,$CAS_only$,$1
 $102-71-6$,$triethanoline$,$perfect match$,$no_match$,$CAS_only$,$102-71-6$,$102-71-6$,$$,$non_spec$,$unk$,$102-71-6$,$d:2021-10-07$,$$,$$
 $102-71-6$,$tris (2-hydroxyethyl) amine$,$perfect match$,$close_match$,$both$,$102-71-6$,$102-71-6$,$$,$102-71-6$,$$,$102-71-6$,$d:2021-10-07$,$$,$$
 $102-76-1$,$1,2,3-propanetriol triacetate$,$perfect match$,$perfect$,$both$,$102-76-1$,$102-76-1$,$$,$102-76-1$,$$,$102-76-1$,$d:2021-10-07$,$$,$$
+$102-76-1$,$triacetin$,$perfect match$,$perfect$,$both$,$102-76-1$,$102-76-1$,$triacetin$,$102-76-1$,$$,$102-76-1$,$D:2022-02-06$,$$,$$
 $102-81-8$,$2-dibutylaminoethanol$,$perfect match$,$close_match$,$both$,$102-81-8$,$102-81-8$,$$,$102-81-8$,$$,$102-81-8$,$d:2021-10-07$,$$,$$
 $102-81-8$,$dibutylaminoethanol$,$perfect match$,$perfect$,$both$,$102-81-8$,$102-81-8$,$$,$102-81-8$,$$,$102-81-8$,$d:2021-10-07$,$$,$$
 $1022-01-2$,$2,2 dibromo-3-nitrilopropionamide$,$corrected$,$close_match$,$both$,$$,$10222-01-2$,$$,$10222-01-2$,$$,$10222-01-2$,$d:2021-10-07$,$$,$$
@@ -1853,6 +1855,7 @@ $107-21-1$,$etjylene glycol$,$perfect match$,$no_match$,$CAS_only$,$107-21-1$,$1
 $107-21-1$,$etylene glycol$,$perfect match$,$conflicting_matches$,$CAS_only$,$107-21-1$,$107-21-1$,$$,$non_spec$,$['107-21-1', '50-00-0']$,$107-21-1$,$d:2021-10-07$,$$,$$
 $107-21-1$,$glutaraldehyde$,$perfect match$,$perfect$,$conflict$,$107-21-1$,$107-21-1$,$$,$111-30-8$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $107-21-1$,$glycol$,$perfect match$,$perfect$,$CAS_only$,$107-21-1$,$107-21-1$,$$,$non_spec$,$$,$107-21-1$,$d:2021-10-07$,$$,$$
+$107-21-1$,$glycol mixture$,$perfect match$,$no_match$,$CAS_only$,$107-21-1$,$107-21-1$,$unk$,$non_spec$,$unk$,$107-21-1$,$D:2022-02-06$,$$,$$
 $107-21-1$,$glycols$,$perfect match$,$no_match$,$CAS_only$,$107-21-1$,$107-21-1$,$$,$non_spec$,$unk$,$107-21-1$,$d:2021-10-07$,$$,$$
 $107-21-1$,$guar gum$,$perfect match$,$perfect$,$CAS_only$,$107-21-1$,$107-21-1$,$$,$non_spec$,$$,$107-21-1$,$d:2021-10-07$,$$,$$
 $107-21-1$,$imidazolyne$,$perfect match$,$no_match$,$CAS_only$,$107-21-1$,$107-21-1$,$$,$non_spec$,$unk$,$107-21-1$,$d:2021-10-07$,$$,$$
@@ -2766,6 +2769,7 @@ $12125-02-9$,$ammonium chloride$,$perfect match$,$perfect$,$both$,$12125-02-9$,$
 $12125-02-9$,$ammonium chloride "9-octadecenamide, n,n-bis-2(hydroxy-ethyl)-,(z)"$,$perfect match$,$no_match$,$CAS_only$,$12125-02-9$,$12125-02-9$,$$,$non_spec$,$unk$,$12125-02-9$,$d:2021-10-07$,$$,$$
 $12125-02-9$,$ammonium chloride ((bh4)cl)$,$perfect match$,$close_match$,$both$,$12125-02-9$,$12125-02-9$,$$,$12125-02-9$,$$,$12125-02-9$,$d:2021-10-07$,$$,$$
 $12125-02-9$,$ammonium chloride ((nh4) cl)$,$perfect match$,$close_match$,$both$,$12125-02-9$,$12125-02-9$,$$,$12125-02-9$,$$,$12125-02-9$,$d:2021-10-07$,$$,$$
+$12125-02-9$,$ammonium chloride ((nh4)(ci)$,$perfect match$,$no_match$,$CAS_only$,$12125-02-9$,$12125-02-9$,$unk$,$non_spec$,$unk$,$12125-02-9$,$D:2022-02-06$,$$,$$
 $12125-02-9$,$ammonium chloride ((nh4)ci)$,$perfect match$,$close_match$,$both$,$12125-02-9$,$12125-02-9$,$$,$12125-02-9$,$$,$12125-02-9$,$d:2021-10-07$,$$,$$
 $12125-02-9$,$ammonium chloride ((nh4)cl)$,$perfect match$,$perfect$,$both$,$12125-02-9$,$12125-02-9$,$$,$12125-02-9$,$$,$12125-02-9$,$d:2021-10-07$,$$,$$
 $12125-02-9$,$ammonium chloride (nh4) ci)$,$perfect match$,$no_match$,$CAS_only$,$12125-02-9$,$12125-02-9$,$$,$non_spec$,$unk$,$12125-02-9$,$d:2021-10-07$,$$,$$
@@ -5325,6 +5329,7 @@ $25085-02-3$,$poly(acrylamide-co-sodium   acrylate)$,$perfect match$,$no_match$,
 $25085-02-3$,$poly(acrylamide-co-sodium acrylate$,$perfect match$,$no_match$,$CAS_only$,$25085-02-3$,$25085-02-3$,$$,$non_spec$,$unk$,$25085-02-3$,$d:2021-10-07$,$$,$$
 $25085-02-3$,$poly(acrylamide-co-sodium acrylate)$,$perfect match$,$no_match$,$CAS_only$,$25085-02-3$,$25085-02-3$,$$,$non_spec$,$unk$,$25085-02-3$,$d:2021-10-07$,$$,$$
 $25085-02-3$,$poly(acrylaminde-co-sodium acrylate)$,$perfect match$,$no_match$,$CAS_only$,$25085-02-3$,$25085-02-3$,$$,$non_spec$,$unk$,$25085-02-3$,$d:2021-10-07$,$$,$$
+$25085-02-3$,$polyacrylamide$,$perfect match$,$perfect$,$CAS_only$,$25085-02-3$,$25085-02-3$,$polyacrylamide$,$9003-05-8$,$['non_spec']$,$25085-02-3$,$D:2022-02-06$,$$,$taking CAS_only because IngredientName is not specific$
 $25085-02-3$,$polyacrylamide copolymer$,$perfect match$,$perfect$,$CAS_only$,$25085-02-3$,$25085-02-3$,$$,$non_spec$,$$,$25085-02-3$,$d:2021-10-07$,$$,$$
 $25085-02-3$,$sodium acrylate acrylamide polymer$,$perfect match$,$close_match$,$both$,$25085-02-3$,$25085-02-3$,$$,$25085-02-3$,$$,$25085-02-3$,$d:2021-10-07$,$$,$$
 $25085-02-3$,$sodium acrylate-acrylamide copolymer$,$perfect match$,$perfect$,$both$,$25085-02-3$,$25085-02-3$,$$,$25085-02-3$,$$,$25085-02-3$,$d:2021-10-07$,$$,$$
@@ -5966,6 +5971,7 @@ $30965-85-6$,$sodium alpha-olefin sulfonate$,$perfect match$,$no_match$,$CAS_onl
 $310-58-3$,$potassium hydroxide$,$corrected$,$perfect$,$both$,$$,$1310-58-3$,$$,$1310-58-3$,$$,$1310-58-3$,$d:2021-10-07$,$$,$$
 $31017-83-1$,$fatty amine ethoxylate$,$perfect match$,$no_match$,$CAS_only$,$31017-83-1$,$31017-83-1$,$$,$non_spec$,$unk$,$31017-83-1$,$d:2021-10-07$,$$,$$
 $31017-83-1$,$fatty amine salt$,$perfect match$,$no_match$,$CAS_only$,$31017-83-1$,$31017-83-1$,$$,$non_spec$,$unk$,$31017-83-1$,$d:2021-10-07$,$$,$$
+$31512-74-0$,$cas # 31512-74-0 poly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylenedichloride]$,$perfect match$,$no_match$,$CAS_only$,$31512-74-0$,$31512-74-0$,$unk$,$non_spec$,$unk$,$31512-74-0$,$D:2022-02-06$,$$,$$
 $31512-74-0$,$dimethyliminio ethylene dichloride$,$perfect match$,$no_match$,$CAS_only$,$31512-74-0$,$31512-74-0$,$$,$non_spec$,$unk$,$31512-74-0$,$d:2021-10-07$,$$,$$
 $31512-74-0$,$hydrotreated light petroleum distillate$,$perfect match$,$perfect$,$CAS_only$,$31512-74-0$,$31512-74-0$,$$,$non_spec$,$$,$31512-74-0$,$d:2021-10-07$,$$,$$
 $31512-74-0$,$ploly[oxyethylene(dimethyliminio)ethylene(dimethyliminio)ethylenedichloride]$,$perfect match$,$close_match$,$both$,$31512-74-0$,$31512-74-0$,$$,$31512-74-0$,$$,$31512-74-0$,$d:2021-10-07$,$$,$$
@@ -8298,6 +8304,8 @@ $64-17-5$,$1,2,3, trimethylbenzene$,$perfect match$,$no_match$,$CAS_only$,$64-17
 $64-17-5$,$1- hydroxyethane$,$perfect match$,$close_match$,$both$,$64-17-5$,$64-17-5$,$$,$64-17-5$,$$,$64-17-5$,$d:2021-10-07$,$$,$$
 $64-17-5$,$MISSING$,$perfect match$,$no_match$,$CAS_only$,$64-17-5$,$64-17-5$,$$,$non_spec$,$unk$,$64-17-5$,$d:2021-10-07$,$$,$$
 $64-17-5$,$alchols, c12-16, ethoxylated$,$perfect match$,$conflicting_matches$,$CAS_only$,$64-17-5$,$64-17-5$,$$,$non_spec$,$['68131-39-5', '68213-23-0', '68551-12-2']$,$64-17-5$,$d:2021-10-07$,$$,$$
+$64-17-5$,$alcohol$,$perfect match$,$curated$,$CAS_only$,$64-17-5$,$64-17-5$,$alcohol$,$non_spec$,$$,$64-17-5$,$D:2022-02-06$,$$,$$
+$64-17-5$,$alcohol mixture$,$perfect match$,$no_match$,$CAS_only$,$64-17-5$,$64-17-5$,$unk$,$non_spec$,$unk$,$64-17-5$,$D:2022-02-06$,$$,$$
 $64-17-5$,$alkyl dimethyl benzyl ammonium chloride$,$perfect match$,$perfect$,$CAS_only$,$64-17-5$,$64-17-5$,$$,$non_spec$,$['8001-54-5']$,$64-17-5$,$d:2021-10-07$,$$,$$
 $64-17-5$,$denatured ethanol$,$perfect match$,$perfect$,$both$,$64-17-5$,$64-17-5$,$$,$64-17-5$,$$,$64-17-5$,$d:2021-10-07$,$$,$$
 $64-17-5$,$denatured ethyl alcohol$,$perfect match$,$perfect$,$both$,$64-17-5$,$64-17-5$,$$,$64-17-5$,$$,$64-17-5$,$d:2021-10-07$,$$,$$
@@ -8466,6 +8474,7 @@ $6410-41-9$,$c.i. pigment red 5$,$perfect match$,$perfect$,$both$,$6410-41-9$,$6
 $6410-41-9$,$ci pigment red 5$,$perfect match$,$no_match$,$CAS_only$,$6410-41-9$,$6410-41-9$,$$,$non_spec$,$unk$,$6410-41-9$,$d:2021-10-07$,$$,$$
 $6419--19-8$,$nitrilotris (methylene phosphonic acid)$,$corrected$,$close_match$,$both$,$$,$6419-19-8$,$$,$6419-19-8$,$$,$6419-19-8$,$d:2021-10-07$,$$,$$
 $6419-19-8$,$alkyltrisphonic acid$,$perfect match$,$no_match$,$CAS_only$,$6419-19-8$,$6419-19-8$,$$,$non_spec$,$unk$,$6419-19-8$,$d:2021-10-07$,$$,$$
+$6419-19-8$,$alkyltrisphosphonic acid$,$perfect match$,$no_match$,$CAS_only$,$6419-19-8$,$6419-19-8$,$unk$,$non_spec$,$unk$,$6419-19-8$,$D:2022-02-06$,$$,$$
 $6419-19-8$,$amine phosphonate$,$perfect match$,$perfect$,$CAS_only$,$6419-19-8$,$6419-19-8$,$$,$non_spec$,$$,$6419-19-8$,$d:2021-10-07$,$$,$$
 $6419-19-8$,$amino alkyl phosphonic acid$,$perfect match$,$no_match$,$CAS_only$,$6419-19-8$,$6419-19-8$,$$,$non_spec$,$unk$,$6419-19-8$,$d:2021-10-07$,$$,$$
 $6419-19-8$,$amino tri$,$perfect match$,$no_match$,$CAS_only$,$6419-19-8$,$6419-19-8$,$$,$non_spec$,$unk$,$6419-19-8$,$d:2021-10-07$,$$,$$
@@ -8746,6 +8755,7 @@ $64742-47-8$,$distillates$,$perfect match$,$no_match$,$CAS_only$,$64742-47-8$,$6
 $64742-47-8$,$distillates (pertroleum), hydrotreated light$,$perfect match$,$close_match$,$both$,$64742-47-8$,$64742-47-8$,$$,$64742-47-8$,$$,$64742-47-8$,$d:2021-10-07$,$$,$$
 $64742-47-8$,$distillates (petoleum), hydrotreated light$,$perfect match$,$close_match$,$both$,$64742-47-8$,$64742-47-8$,$$,$64742-47-8$,$$,$64742-47-8$,$d:2021-10-07$,$$,$$
 $64742-47-8$,$distillates (petroeleum), hydrotreated light$,$perfect match$,$close_match$,$both$,$64742-47-8$,$64742-47-8$,$$,$64742-47-8$,$$,$64742-47-8$,$d:2021-10-07$,$$,$$
+$64742-47-8$,$distillates (petroelum), hydrotreated light; kerosine$,$perfect match$,$no_match$,$CAS_only$,$64742-47-8$,$64742-47-8$,$unk$,$non_spec$,$unk$,$64742-47-8$,$D:2022-02-06$,$$,$$
 $64742-47-8$,$distillates (petroleum(, hydrotreated light$,$perfect match$,$close_match$,$both$,$64742-47-8$,$64742-47-8$,$$,$64742-47-8$,$$,$64742-47-8$,$d:2021-10-07$,$$,$$
 $64742-47-8$,$distillates (petroleum)$,$perfect match$,$no_match$,$CAS_only$,$64742-47-8$,$64742-47-8$,$$,$non_spec$,$unk$,$64742-47-8$,$d:2021-10-07$,$$,$$
 $64742-47-8$,$distillates (petroleum) , hydrotreated light$,$perfect match$,$close_match$,$both$,$64742-47-8$,$64742-47-8$,$$,$64742-47-8$,$$,$64742-47-8$,$d:2021-10-07$,$$,$$
@@ -11066,6 +11076,7 @@ $68424-85-1$,$alkyl (c12-16)$,$perfect match$,$no_match$,$CAS_only$,$68424-85-1$
 $68424-85-1$,$alkyl (c12-16) dimedhylbenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl (c12-16) dimenthylbenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl (c12-16) dimethlbenzlammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
+$68424-85-1$,$alkyl (c12-16) dimethlbenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$alkyl(c12-16)dimethylbenzylammonium chloride$,$68424-85-1$,$$,$68424-85-1$,$D:2022-02-06$,$$,$$
 $68424-85-1$,$alkyl (c12-16) dimethlylbenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl (c12-16) dimethyl benzyl ammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl (c12-16) dimethyl benzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
@@ -11158,6 +11169,7 @@ $68424-85-1$,$alkyl(c12-16) dimethylbenzylammonium chloride$,$perfect match$,$cl
 $68424-85-1$,$alkyl(c12-16) dimethylbeylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl(c12-16)dimethylbenzyl amonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyl(c12-16)dimethylbenzylammonium chloride$,$perfect match$,$perfect$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
+$68424-85-1$,$alkyl(c12-c16) dimethylbenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$alkyl(c12-16)dimethylbenzylammonium chloride$,$68424-85-1$,$$,$68424-85-1$,$D:2022-02-06$,$$,$$
 $68424-85-1$,$alkyl)c-12-16)dimethybenzylammonium chloride$,$perfect match$,$close_match$,$both$,$68424-85-1$,$68424-85-1$,$$,$68424-85-1$,$$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyldimethylbenzylammoniumchloride$,$perfect match$,$conflicting_matches$,$CAS_only$,$68424-85-1$,$68424-85-1$,$$,$non_spec$,$['8001-54-5', 'non_spec']$,$68424-85-1$,$d:2021-10-07$,$$,$$
 $68424-85-1$,$alkyyl dimethyl benzyl ammonium chloride (c12-16)$,$perfect match$,$no_match$,$CAS_only$,$68424-85-1$,$68424-85-1$,$$,$non_spec$,$unk$,$68424-85-1$,$d:2021-10-07$,$$,$$
@@ -12615,6 +12627,7 @@ $68910-93-0$,$amine derivative$,$perfect match$,$no_match$,$CAS_only$,$68910-93-
 $68911-25-1$,$aliphatic polymer$,$perfect match$,$no_match$,$CAS_only$,$68911-25-1$,$68911-25-1$,$$,$non_spec$,$unk$,$68911-25-1$,$d:2021-10-07$,$$,$$
 $68911-87-5$,$alkyl derivative compounds$,$perfect match$,$no_match$,$CAS_only$,$68911-87-5$,$68911-87-5$,$$,$non_spec$,$unk$,$68911-87-5$,$d:2021-10-07$,$$,$$
 $68911-87-5$,$modified bentonite clay$,$perfect match$,$no_match$,$CAS_only$,$68911-87-5$,$68911-87-5$,$$,$non_spec$,$unk$,$68911-87-5$,$d:2021-10-07$,$$,$$
+$68911-87-5$,$modified phyllosilicate$,$perfect match$,$no_match$,$CAS_only$,$68911-87-5$,$68911-87-5$,$unk$,$non_spec$,$unk$,$68911-87-5$,$D:2022-02-06$,$$,$$
 $68911-87-5$,$organo clay$,$perfect match$,$no_match$,$CAS_only$,$68911-87-5$,$68911-87-5$,$$,$non_spec$,$unk$,$68911-87-5$,$d:2021-10-07$,$$,$$
 $68911-87-5$,$proprietary ammonium compounds$,$perfect match$,$proprietary$,$CAS_only$,$68911-87-5$,$68911-87-5$,$$,$proprietary$,$unk$,$68911-87-5$,$d:2021-10-07$,$$,$$
 $68911-87-5$,$quaternary ammonium compounds$,$perfect match$,$close_match$,$CAS_only$,$68911-87-5$,$68911-87-5$,$$,$non_spec$,$$,$68911-87-5$,$d:2021-10-07$,$$,$$
@@ -13251,6 +13264,7 @@ $7173-51-5$,$didecyldimethlammonium chloride$,$perfect match$,$close_match$,$bot
 $7173-51-5$,$didecyldimethllammonium chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
 $7173-51-5$,$didecyldimethlyammonium chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
 $7173-51-5$,$didecyldimethyammonium chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
+$7173-51-5$,$didecyldimethyl ammonim chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$didecyl dimethyl ammonium chloride$,$7173-51-5$,$$,$7173-51-5$,$D:2022-02-06$,$$,$$
 $7173-51-5$,$didecyldimethyl ammonium chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
 $7173-51-5$,$didecyldimethyl ammonium choride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
 $7173-51-5$,$didecyldimethylammanium chloride$,$perfect match$,$close_match$,$both$,$7173-51-5$,$7173-51-5$,$$,$7173-51-5$,$$,$7173-51-5$,$d:2021-10-07$,$$,$$
@@ -13994,7 +14008,7 @@ $7647-01-0$,$organic amine resin salt$,$perfect match$,$no_match$,$CAS_only$,$76
 $7647-01-0$,$phosphoric acid$,$perfect match$,$perfect$,$conflict$,$7647-01-0$,$7647-01-0$,$$,$7664-38-2$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7647-01-0$,$quartz (sio2)$,$perfect match$,$perfect$,$conflict$,$7647-01-0$,$7647-01-0$,$$,$14808-60-7$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7647-01-0$,$rochloric acid 5-10%$,$perfect match$,$no_match$,$CAS_only$,$7647-01-0$,$7647-01-0$,$$,$non_spec$,$unk$,$7647-01-0$,$d:2021-10-07$,$$,$$
-$7647-01-0$,$silica substrate$,$perfect match$,$no_match$,$CAS_only$,$7647-01-0$,$7647-01-0$,$$,$non_spec$,$unk$,$7647-01-0$,$d:2021-10-07$,$$,$$
+$7647-01-0$,$silica substrate$,$perfect match$,$no_match$,$CAS_only$,$7647-01-0$,$7647-01-0$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$D:2022-01-31$,$All records of this pair are clearly NOT Hcl, but probably sand though name is not specific enough to label with a CAS.$
 $7647-01-0$,$sodium chloride (nacl)$,$perfect match$,$perfect$,$conflict$,$7647-01-0$,$7647-01-0$,$$,$7647-14-5$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7647-01-0$,$sodium hydroxide$,$perfect match$,$perfect$,$conflict$,$7647-01-0$,$7647-01-0$,$$,$1310-73-2$,$$,$conflictingID$,$d:2021-10-07$,$$,$$
 $7647-01-0$,$solvent$,$perfect match$,$no_match$,$CAS_only$,$7647-01-0$,$7647-01-0$,$$,$non_spec$,$unk$,$7647-01-0$,$d:2021-10-07$,$$,$$
@@ -14635,6 +14649,7 @@ $7732-18-5$,$ethylene glyol$,$perfect match$,$conflicting_matches$,$CAS_only$,$7
 $7732-18-5$,$fesh water$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7732-18-5$,$field salt water$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7732-18-5$,$field water$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
+$7732-18-5$,$filtered and deionized water$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$unk$,$non_spec$,$unk$,$7732-18-5$,$D:2022-02-06$,$$,$$
 $7732-18-5$,$formaldehyde amine resin$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7732-18-5$,$fr water$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
 $7732-18-5$,$fr-66$,$perfect match$,$no_match$,$CAS_only$,$7732-18-5$,$7732-18-5$,$$,$non_spec$,$unk$,$7732-18-5$,$d:2021-10-07$,$$,$$
@@ -15957,6 +15972,7 @@ $9000-30-0$,$petroleum distillate blend$,$perfect match$,$close_match$,$CAS_only
 $9000-30-0$,$petroleum distillute & guar$,$perfect match$,$no_match$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$unk$,$9000-30-0$,$d:2021-10-07$,$$,$$
 $9000-30-0$,$phenol formaldehyde$,$perfect match$,$no_match$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$unk$,$9000-30-0$,$d:2021-10-07$,$$,$$
 $9000-30-0$,$polsaccharide blend$,$perfect match$,$close_match$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$$,$9000-30-0$,$d:2021-10-07$,$$,$$
+$9000-30-0$,$polyacrylamide$,$perfect match$,$perfect$,$conflict$,$9000-30-0$,$9000-30-0$,$polyacrylamide$,$9003-05-8$,$['non_spec']$,$conflictingID$,$D:2022-02-06$,$$,$$
 $9000-30-0$,$polysaccdharide blend$,$perfect match$,$close_match$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$$,$9000-30-0$,$d:2021-10-07$,$$,$$
 $9000-30-0$,$polysaccharide$,$perfect match$,$perfect$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$$,$9000-30-0$,$d:2021-10-07$,$$,$$
 $9000-30-0$,$polysaccharide blend$,$perfect match$,$perfect$,$CAS_only$,$9000-30-0$,$9000-30-0$,$$,$non_spec$,$$,$9000-30-0$,$d:2021-10-07$,$$,$$
@@ -16066,6 +16082,7 @@ $9003-05-8$,$anionic polyacrylamide polymer$,$perfect match$,$close_match$,$CAS_
 $9003-05-8$,$anionic polymer$,$perfect match$,$perfect$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$$,$9003-05-8$,$d:2021-10-07$,$$,$$
 $9003-05-8$,$cationic$,$perfect match$,$no_match$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$unk$,$9003-05-8$,$d:2021-10-07$,$$,$$
 $9003-05-8$,$cationic polyacrylamide$,$perfect match$,$perfect$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$$,$9003-05-8$,$d:2021-10-07$,$$,$$
+$9003-05-8$,$copolymer of polyacrylamide$,$perfect match$,$no_match$,$CAS_only$,$9003-05-8$,$9003-05-8$,$unk$,$non_spec$,$unk$,$9003-05-8$,$D:2022-02-06$,$$,$$
 $9003-05-8$,$hiflow5$,$perfect match$,$no_match$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$unk$,$9003-05-8$,$d:2021-10-07$,$$,$$
 $9003-05-8$,$hydrotreated light distillate$,$perfect match$,$perfect$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$$,$9003-05-8$,$d:2021-10-07$,$$,$$
 $9003-05-8$,$pa polymer$,$perfect match$,$no_match$,$CAS_only$,$9003-05-8$,$9003-05-8$,$$,$non_spec$,$unk$,$9003-05-8$,$d:2021-10-07$,$$,$$
@@ -18527,6 +18544,7 @@ $MISSING$,$all ingredients including the non hazardous ingredients are included 
 $MISSING$,$all ingredients including the non hazardous ingredients are listed above$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$all ingredients including the non-hazardous ingredients are included above$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$all ingredients inlcuding the non hazardous ingredients are listed above$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
+$MISSING$,$alochol mixture$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$unk$,$non_spec$,$unk$,$ambiguousID$,$D:2022-02-06$,$$,$$
 $MISSING$,$alocohol ethoxylate surfactants$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$alpha-(4-nonylphenyl)-$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$alpha-(4-nonylphenyl)-omega-hydr oxy-, branched$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
@@ -19003,6 +19021,7 @@ $MISSING$,$gluteraldahyde$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNum
 $MISSING$,$glycerine$,$ambiguousID$,$perfect$,$ING_only$,$$,$missing_CASNumber$,$$,$56-81-5$,$$,$56-81-5$,$d:2021-10-07$,$$,$$
 $MISSING$,$glycol$,$ambiguousID$,$perfect$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$glycol ether$,$ambiguousID$,$perfect$,$ING_only$,$$,$missing_CASNumber$,$$,$111-46-6$,$['non_spec']$,$111-46-6$,$d:2021-10-07$,$$,$$
+$MISSING$,$glycol mixture$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$unk$,$non_spec$,$unk$,$ambiguousID$,$D:2022-02-06$,$$,$$
 $MISSING$,$glycol nonylphenyl ether$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$glycol nonylphenylether$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
 $MISSING$,$greenskeeper solvent$,$ambiguousID$,$no_match$,$neither$,$$,$missing_CASNumber$,$$,$non_spec$,$unk$,$ambiguousID$,$d:2021-10-07$,$$,$$
@@ -23221,6 +23240,7 @@ $Proprietary$,$proprietary aliphatic polymer$,$proprietary$,$proprietary$,$neith
 $Proprietary$,$proprietary alkyl ethoxylate$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$proprietary amide$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$proprietary amine$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$Proprietary$,$proprietary amines$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$unk$,$proprietary$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $Proprietary$,$proprietary amino compounds$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$proprietary anionic polyacrylamide copolymer$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$proprietary aromatic hydrocarbon$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -23608,6 +23628,7 @@ $Proprietary$,$sodium salt of a phosphonic acid$,$proprietary$,$no_match$,$neith
 $Proprietary$,$sodium salt of alicyclic acid$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$sodium salt of aliphatic amine acid$,$proprietary$,$perfect$,$neither$,$$,$proprietary$,$$,$non_spec$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$sodium salt of phosphonic acid$,$proprietary$,$close_match$,$ING_only$,$$,$proprietary$,$$,$7632-05-5$,$$,$proprietary$,$d:2021-10-07$,$$,$$
+$Proprietary$,$sodium salt of phosphonimethylated diamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $Proprietary$,$sodium salt of phosphonodimethylated diamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$sodium salt of phosphonomethylated diamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$sodium salt of phosponomethylated diamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -23630,6 +23651,7 @@ $Proprietary$,$stabilizer$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$
 $Proprietary$,$stabilizing agent$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$starch$,$proprietary$,$perfect$,$ING_only$,$$,$proprietary$,$$,$9005-25-8$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$stearates$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$Proprietary$,$styrene$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $Proprietary$,$styrene-ethylene/propylene-styrene$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$d:2022-01-07$,$$,$$
 $Proprietary$,$subsituted alkylamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$substances/mixtures corrosive to metal$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -23750,6 +23772,7 @@ $Proprietary$,$tetrahydro-3/5-dimethyl-2h-1/3/5-thiadiazine-2-thione.$,$propriet
 $Proprietary$,$the components are not hazardous or are below required disclosure limits$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$the components are not hazardous or are below required disclosure limits.$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$the exact chemical identity of the composition has been withheld as proprietary$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$Proprietary$,$the manufacturer lists no ingredients as hazardous according to osha 29 cfr 1910.1200$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $Proprietary$,$the specific chemical identity and exact percentage of the composition has been withheld as proprietary.$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$the specific chemical identity of the composition has been withheld as proprietary$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Proprietary$,$the specific chemical identity of the composition has been withheld as proprietary.$,$proprietary$,$proprietary$,$neither$,$$,$proprietary$,$$,$proprietary$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -24560,6 +24583,7 @@ $Trade Secret$,$enzyme solution$,$proprietary$,$no_match$,$neither$,$$,$propriet
 $Trade Secret$,$enzymes$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$essential oils$,$proprietary$,$perfect$,$neither$,$$,$proprietary$,$$,$non_spec$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$ester mixture$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$Trade Secret$,$ethanol$,$proprietary$,$perfect$,$CAS_only$,$$,$proprietary$,$ethanol$,$64-17-5$,$$,$proprietary$,$D:2022-02-06$,$$,$$
 $Trade Secret$,$ethanol, 2-amino-, polymer with a tridecyl-w-hydroxypoly(oxy-1,2-ethanediyl) phosphate$,$proprietary$,$close_match$,$ING_only$,$$,$proprietary$,$$,$68425-75-2$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$ethanolamine thioglycolate$,$proprietary$,$perfect$,$ING_only$,$$,$proprietary$,$$,$126-97-6$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$ether$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -24692,6 +24716,7 @@ $Trade Secret$,$n-olefine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$
 $Trade Secret$,$n-olefins$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$n-propyl zirconate$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$nanoparticles, surfactants and other additives$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$Trade Secret$,$natural solvent$,$proprietary$,$no_match$,$CAS_only$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $Trade Secret$,$neutralized polycarboxylic acid$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$neutralized polymer$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $Trade Secret$,$neutralized traceable polymer$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -25715,6 +25740,7 @@ $proprietary$,$sand$,$proprietary$,$perfect$,$neither$,$$,$proprietary$,$$,$non_
 $proprietary$,$scale control agent$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $proprietary$,$scall control agent$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $proprietary$,$scandium oxide$,$proprietary$,$perfect$,$ING_only$,$$,$proprietary$,$$,$12060-08-1$,$$,$proprietary$,$d:2021-10-07$,$$,$$
+$proprietary$,$smartflo$,$proprietary$,$no_match$,$CAS_only$,$$,$proprietary$,$unk$,$non_spec$,$unk$,$proprietary$,$D:2022-02-06$,$$,$$
 $proprietary$,$sodium phosphate ester salt$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $proprietary$,$sodium polyphosphonate$,$proprietary$,$close_match$,$ING_only$,$$,$proprietary$,$$,$68915-31-1$,$$,$proprietary$,$d:2021-10-07$,$$,$$
 $proprietary$,$sodium salt$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -25771,6 +25797,7 @@ $trade secret$,$c-11 to c-14 n-alkanes mixed$,$proprietary$,$no_match$,$neither$
 $trade secret$,$cationic polyacrylamide co polymer$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$complex alkylamine$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$cured acrylic resin$,$proprietary$,$perfect$,$neither$,$$,$proprietary$,$$,$non_spec$,$$,$proprietary$,$d:2021-10-07$,$$,$$
+$trade secret$,$didecyldimethylammonium chloride$,$proprietary$,$perfect$,$CAS_only$,$$,$proprietary$,$didecyldimethylammonium chloride$,$7173-51-5$,$$,$proprietary$,$D:2022-02-06$,$$,$$
 $trade secret$,$diethanolamide$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$ester solvents$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$ethoxylated nonyl phenol$,$proprietary$,$conflicting_matches$,$neither$,$$,$proprietary$,$$,$non_spec$,$['26027-38-3', '9014-93-1', 'non_spec']$,$proprietary$,$d:2021-10-07$,$$,$$
@@ -25779,6 +25806,7 @@ $trade secret$,$isobutyl ketone i$,$proprietary$,$no_match$,$neither$,$$,$propri
 $trade secret$,$isobutyl ketone ii$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$mannanase enzymes$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$mannanese enzymes$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
+$trade secret$,$methyl alcohol$,$proprietary$,$perfect$,$CAS_only$,$$,$proprietary$,$methyl alcohol$,$67-56-1$,$['64-17-5']$,$proprietary$,$D:2022-02-06$,$$,$$
 $trade secret$,$modified polyacrylate$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$n-olefins$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
 $trade secret$,$nanoparticles, surfactants and other additives$,$proprietary$,$no_match$,$neither$,$$,$proprietary$,$$,$non_spec$,$unk$,$proprietary$,$d:2021-10-07$,$$,$$
