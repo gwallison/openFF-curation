@@ -1434,6 +1434,7 @@ $30015462030000$,$ -- $,$TotalBaseNonWaterVolume; CASNumber; Supplier; APINumber
 $30015464470000$,$d13e1d6d-38cb-4800-a2ef-52dd7adaca80$,$$,$2021-12-18$,$disclosure removed$
 $30015464500000$,$de9c03cd-756c-4547-a58c-2421b4a39b37$,$$,$2021-05-14$,$disclosure removed$
 $30015467460000$,$ -- $,$raw_filename; $,$2020-12-04$,$changes within disclosure$
+$30015470170000$,$9451f05c-26a3-45e2-a69e-d2d778c0a74d$,$Supplier; Purpose; JobEndDate; TradeName; $,$2022-02-12$,$changes within disclosure$
 $30025432940000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-09-09$,$changes within disclosure$
 $30025443950000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2019-02-25$,$changes within disclosure$
 $30025450820000$,$96b918f2-7287-4ac0-836e-f2767f105691$,$$,$2021-05-14$,$disclosure removed$
@@ -1729,6 +1730,7 @@ $35073263130000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$cha
 $35073263140000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$changes within disclosure$
 $35073263150000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-07-29$,$changes within disclosure$
 $35073263990000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-11-25$,$changes within disclosure$
+$35073265350000$,$2dd5b35a-01d4-4bb0-bbcf-9bb63f086c1a$,$$,$2022-02-18$,$disclosure removed$
 $35073529560000$,$9cd4d86a-545b-47b7-b150-eb16d45e3cf2$,$$,$2019-03-04$,$disclosure removed$
 $35083244330000$,$bb7c2088-ccc3-4364-89bb-9f48978336eb$,$$,$2019-12-23$,$disclosure removed$
 $35087222260000$,$ -- $,$TotalBaseWaterVolume; $,$2019-07-05$,$changes within disclosure$
@@ -1905,6 +1907,7 @@ $42051341670000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-01-23$,$changes withi
 $42077301340000$,$ -- $,$raw_filename; $,$2020-12-05$,$changes within disclosure$
 $42103347270000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-11-25$,$changes within disclosure$
 $42103352530000$,$ -- $,$JobStartDate; JobEndDate; $,$2021-08-03$,$changes within disclosure$
+$42103367300000$,$834f7626-9cce-48e1-b0be-5e8bda306b38$,$$,$2022-02-10$,$disclosure removed$
 $42107318440000$,$c64ac69c-f567-4198-8b08-88342f68b4d7$,$$,$2019-02-25$,$disclosure removed$
 $42109330990000$,$7217074c-a002-4ae9-9916-00f7b7c5aa13$,$$,$2018-10-29$,$disclosure removed$
 $42109330990000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2018-10-29$,$changes within disclosure$
@@ -1968,6 +1971,9 @@ $42135434200000$,$ -- $,$WellName; JobEndDate; JobStartDate; $,$2019-11-25$,$cha
 $42135434210000$,$ -- $,$WellName; $,$2019-11-25$,$changes within disclosure$
 $42135434580000$,$ -- $,$WellName; $,$2019-11-25$,$changes within disclosure$
 $42135434590000$,$ -- $,$WellName; $,$2019-11-25$,$changes within disclosure$
+$42135438060000$,$77d886e8-98e7-4189-8b15-731a0c0b144e$,$TVD; JobEndDate; JobStartDate; $,$2022-02-19$,$changes within disclosure$
+$42135438260000$,$074225ac-918e-4557-a753-4c8cb69e0ae8$,$TVD; JobEndDate; JobStartDate; $,$2022-02-19$,$changes within disclosure$
+$42135438270000$,$01d76e1b-5e9d-45a4-a1be-89a0cb50c18a$,$TVD; JobEndDate; JobStartDate; $,$2022-02-19$,$changes within disclosure$
 $42149334640000$,$ -- $,$JobEndDate; JobStartDate; $,$2020-03-16$,$changes within disclosure$
 $42165386420000$,$ -- $,$JobEndDate; JobStartDate; $,$2019-09-09$,$changes within disclosure$
 $42173381200000$,$ -- $,$raw_filename; $,$2020-12-03$,$changes within disclosure$
@@ -2010,6 +2016,7 @@ $42227401100000$,$95400cc8-6e43-423a-970f-0b6e2247edf3$,$$,$2019-11-25$,$disclos
 $42227401190000$,$864987a9-f252-453d-9654-8ccfe7a49049$,$$,$2020-02-17$,$disclosure removed$
 $42227401630000$,$ -- $,$APINumber; UploadKey; PercentHighAdditive; MassIngredient; Latitude; OperatorName; TradeName; WellName; CASNumber; Purpose; CountyName; TotalBaseWaterVolume; StateNumber; JobEndDate; TVD; IngredientName; StateName; JobStartDate; TotalBaseNonWaterVolume; PercentHFJob; Longitude; CountyNumber; FederalWell; Supplier; IndianWell; $,$2020-03-16$,$changes within disclosure$
 $42227404830000$,$ -- $,$TotalBaseWaterVolume; Latitude; JobStartDate; JobEndDate; Longitude; $,$2020-12-16$,$changes within disclosure$
+$42227407900000$,$f47fd98c-80d2-49e3-b283-16929f74c48b$,$Longitude; Latitude; $,$2022-02-09$,$changes within disclosure$
 $42235363870000$,$ -- $,$Latitude; Longitude; $,$2020-06-26$,$changes within disclosure$
 $42255265680000$,$a5d4d9a3-c294-422c-b5e3-3baf9e1d8c84$,$$,$2020-10-28$,$disclosure removed$
 $42255317190000$,$ -- $,$TotalBaseWaterVolume; TVD; $,$2020-04-20$,$changes within disclosure$
@@ -2141,6 +2148,9 @@ $42301345560000$,$ -- $,$raw_filename; $,$2020-12-05$,$changes within disclosure
 $42301350440000$,$ -- $,$raw_filename; $,$2020-12-05$,$changes within disclosure$
 $42301350450000$,$ -- $,$raw_filename; $,$2020-12-05$,$changes within disclosure$
 $42301350510000$,$ -- $,$raw_filename; $,$2020-12-05$,$changes within disclosure$
+$42301351260000$,$7139c46f-22d6-4151-9836-753837b62c13$,$JobStartDate; JobEndDate; $,$2022-02-12$,$changes within disclosure$
+$42301352140000$,$424b7e49-03c6-44a1-aadc-03f6087bd429$,$JobStartDate; JobEndDate; $,$2022-02-12$,$changes within disclosure$
+$42301352780000$,$6bb6e643-8be2-46e8-8075-5367ff28d640$,$TradeName; APINumber; Latitude; Purpose; StateName; WellName; PercentHighAdditive; PercentHFJob; StateNumber; OperatorName; CountyName; TotalBaseWaterVolume; TVD; IndianWell; Longitude; JobEndDate; CASNumber; Supplier; JobStartDate; UploadKey; FederalWell; IngredientName; CountyNumber; MassIngredient; TotalBaseNonWaterVolume; $,$2022-02-18$,$changes within disclosure$
 $42311353380000$,$ -- $,$raw_filename; $,$2020-11-29$,$changes within disclosure$
 $42311353380000$,$ -- $,$raw_filename; $,$2020-12-02$,$changes within disclosure$
 $42311353380000$,$ -- $,$raw_filename; $,$2020-12-03$,$changes within disclosure$
