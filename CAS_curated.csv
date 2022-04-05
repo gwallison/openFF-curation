@@ -404,6 +404,7 @@ $068002-97-1$,$68002-97-1$,$cleaned$,$verified;normal$,$68002-97-1$,$cleaned$,$F
 $068123-18-2$,$68123-18-2$,$cleaned$,$verified;normal$,$68123-18-2$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
 $068130-15-4$,$68130-15-4$,$cleaned$,$verified;normal$,$68130-15-4$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
 $068131-40-8$,$68131-40-8$,$cleaned$,$verified;normal$,$68131-40-8$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
+$068131-71-5$,$$,$cleaned$,$verified;normal$,$68131-71-5$,$cleaned$,$False$,$$,$D:2022-03-12$,$$,$$
 $068155-20-4$,$68155-20-4$,$cleaned$,$verified;normal$,$68155-20-4$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
 $068391-01-5$,$68391-01-5$,$cleaned$,$verified;normal$,$68391-01-5$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
 $068412-54-4$,$68412-54-4$,$cleaned$,$verified;normal$,$68412-54-4$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -1070,11 +1071,12 @@ $141-49-5$,$$,$unk$,$unk$,$141-43-5$,$corrected$,$False$,$typo$,$d:2021-10-06$,$
 $141-53-7$,$141-53-7$,$perfect$,$verified;normal$,$141-53-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $141-78-6$,$141-78-6$,$perfect$,$verified;normal$,$141-78-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $141179-72-8$,$141179-72-8$,$perfect$,$verified;normal$,$141179-72-8$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
-$1417986-34-5$,$$,$perfect$,$verified;normal$,$1417986-34-5$,$perfect match$,$True$,$$,$D:2022-02-19$,$$,$$
+$1417986-34-5$,$$,$perfect$,$verified;normal$,$1417986-34-5$,$perfect match$,$False$,$$,$D:2022-02-19$,$$,$$
 $142-31-4$,$142-31-4$,$perfect$,$verified;normal$,$142-31-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $142-82-5$,$142-82-5$,$perfect$,$verified;normal$,$142-82-5$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $142-87-0$,$142-87-0$,$perfect$,$verified;normal$,$142-87-0$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $1422006-64-1$,$1422006-64-1$,$perfect$,$verified;normal$,$1422006-64-1$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$14265-44-2$,$$,$perfect$,$verified;normal$,$14265-44-2$,$perfect match$,$False$,$$,$D:2022-03-12$,$$,$$
 $143-18-0$,$143-18-0$,$perfect$,$verified;normal$,$143-18-0$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $143-180$,$$,$unk$,$unk$,$143-18-0$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $143-22-6$,$143-22-6$,$perfect$,$verified;normal$,$143-22-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -1649,7 +1651,7 @@ $526-73-8$,$526-73-8$,$perfect$,$verified;normal$,$526-73-8$,$perfect match$,$Fa
 $526-95-4$,$526-95-4$,$perfect$,$verified;normal$,$526-95-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $52624-57-4$,$52624-57-4$,$perfect$,$verified;normal$,$52624-57-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $527-07-1$,$527-07-1$,$perfect$,$verified;normal$,$527-07-1$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
-$531-81-7$,$$,$perfect$,$verified;normal$,$531-81-7$,$perfect match$,$True$,$$,$D:2022-02-19$,$$,$$
+$531-81-7$,$$,$perfect$,$verified;normal$,$531-81-7$,$perfect match$,$False$,$$,$D:2022-02-19$,$$,$$
 $532-32-1$,$532-32-1$,$perfect$,$verified;normal$,$532-32-1$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $5324-84-5$,$5324-84-5$,$perfect$,$verified;normal$,$5324-84-5$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $5329-14-6$,$5329-14-6$,$perfect$,$verified;normal$,$5329-14-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -1957,6 +1959,7 @@ $64741-48-9$,$$,$unk$,$unk$,$64742-48-9$,$corrected$,$False$,$typo$,$d:2021-10-0
 $64741-66-8$,$64741-66-8$,$perfect$,$verified;normal$,$64741-66-8$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $64741-67-9$,$64741-67-9$,$perfect$,$verified;normal$,$64741-67-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $64741-68-0$,$64741-68-0$,$perfect$,$verified;normal$,$64741-68-0$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$64741-79-3$,$$,$perfect$,$verified;normal$,$64741-79-3$,$perfect match$,$True$,$$,$D:2022-04-02$,$$,$$
 $64741-84-1$,$$,$unk$,$unk$,$64741-85-1$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $64741-85-1$,$64741-85-1$,$perfect$,$verified;normal$,$64741-85-1$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $64741-85-1 , 1319-33-1$,$$,$unk$,$unk$,$multiple chem$,$ambiguousID$,$False$,$$,$d:2021-10-06$,$$,$$
