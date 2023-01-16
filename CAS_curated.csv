@@ -1364,6 +1364,7 @@ $15630-89-4$,$15630-89-4$,$perfect$,$verified;normal$,$15630-89-4$,$perfect matc
 $1569-01-3$,$1569-01-3$,$perfect$,$verified;normal$,$1569-01-3$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $1569-48-4$,$$,$unk$,$unk$,$15619-48-4$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $157627-86-6$,$157627-86-6$,$perfect$,$verified;normal$,$157627-86-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$1581740-29-5$,$1581740-29-5$,$perfect$,$verified;normal$,$1581740-29-5$,$perfect$,$False$,$$,$D:2022-12-08$,$$,$$
 $15821-83-7$,$15821-83-7$,$perfect$,$verified;normal$,$15821-83-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $15827- 60-8$,$15827-60-8$,$cleaned$,$verified;normal$,$15827-60-8$,$cleaned$,$False$,$$,$d:2021-10-06$,$$,$$
 $15827-60-8$,$15827-60-8$,$perfect$,$verified;normal$,$15827-60-8$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -1733,6 +1734,7 @@ $3567-66-6$,$3567-66-6$,$perfect$,$verified;normal$,$3567-66-6$,$perfect match$,
 $35674-56-7$,$35674-56-7$,$perfect$,$verified;normal$,$35674-56-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $35691-65-7$,$35691-65-7$,$perfect$,$verified;normal$,$35691-65-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $36089-45-9$,$36089-45-9$,$perfect$,$verified;normal$,$36089-45-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$36465-90-4$,$$,$perfect$,$verified;normal$,$36465-90-4$,$perfect$,$True$,$$,$D:2023-01-14$,$$,$$
 $36669-85-9$,$36669-85-9$,$perfect$,$verified;normal$,$36669-85-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $36673-16-2$,$36673-16-2$,$perfect$,$verified;normal$,$36673-16-2$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $3690-05-9$,$3690-05-9$,$perfect$,$verified;normal$,$3690-05-9$,$perfect match$,$False$,$CASNumber | IngName seem inconsistent, not many uses. No help from SciFinder, tradenames$,$d:2021-10-06$,$$,$$
@@ -2206,7 +2208,7 @@ $64425-86-1$,$64425-86-1$,$perfect$,$verified;normal$,$64425-86-1$,$perfect matc
 $644742-47-8$,$$,$unk$,$unk$,$64742-47-8$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $64475-85-0$,$64475-85-0$,$perfect$,$verified;normal$,$64475-85-0$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $64476-38-6$,$64476-38-6$,$perfect$,$verified;normal$,$64476-38-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
-$645742-47-8$,$64742-47-8$,$perfect$,$verified;normal$,$64742-47-8$,$corrected$,$True$,$Raw CAS clearly wrong - “human DNA”, but just one digit away from common fracking material $,$D:2022-11-03$,$$,$$
+$645742-47-8$,$64742-47-8$,$perfect$,$verified;normal$,$64742-47-8$,$corrected$,$False$,$Raw CAS clearly wrong - “human DNA”, but just one digit away from common fracking material $,$D:2022-11-03$,$$,$$
 $64649-29-6$,$$,$unk$,$unk$,$68649-29-6$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $64672-47-8$,$$,$unk$,$unk$,$64742-47-8$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $647-17-5$,$$,$unk$,$unk$,$64-17-5$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
@@ -2345,7 +2347,7 @@ $65997-18-4$,$65997-18-4$,$perfect$,$verified;normal$,$65997-18-4$,$perfect matc
 $66034-17-1$,$66034-17-1$,$perfect$,$verified;normal$,$66034-17-1$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $6607-28-3$,$$,$unk$,$unk$,$68607-28-3$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $66085-00-5$,$66085-00-5$,$perfect$,$verified;normal$,$66085-00-5$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
-$66204-44-2$,$66204-44-2$,$perfect$,$verified;normal$,$66204-44-2$,$perfect$,$True$,$$,$D:2022-11-03$,$$,$$
+$66204-44-2$,$66204-44-2$,$perfect$,$verified;normal$,$66204-44-2$,$perfect$,$False$,$$,$D:2022-11-03$,$$,$$
 $6625-46-3$,$6625-46-3$,$perfect$,$verified;normal$,$6625-46-3$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $66256-28-8$,$66256-28-8$,$perfect$,$verified;normal$,$66256-28-8$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $6632-18-5$,$$,$unk$,$unk$,$7732-18-5$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
@@ -2755,6 +2757,7 @@ $68991-48-0$,$68991-48-0$,$perfect$,$verified;normal$,$68991-48-0$,$perfect matc
 $68991-52-6$,$68991-52-6$,$perfect$,$verified;normal$,$68991-52-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $69-50-5, 629-59-4,$,$$,$unk$,$unk$,$multiple chem$,$ambiguousID$,$False$,$$,$d:2021-10-06$,$$,$$
 $69-53-4$,$69-53-4$,$perfect$,$verified;normal$,$69-53-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$6901-35-5$,$6901-35-5$,$perfect$,$verified;normal$,$6901-35-5$,$perfect$,$False$,$This molecule looks suspiciously biological – could it be a typo?$,$D:2022-12-08$,$$,$$
 $69011-36-5$,$69011-36-5$,$perfect$,$verified;normal$,$69011-36-5$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $69012-64-2$,$69012-64-2$,$perfect$,$verified;normal$,$69012-64-2$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $69227-09-4$,$69227-09-4$,$perfect$,$verified;normal$,$69227-09-4$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -3347,6 +3350,7 @@ $8042-47-5$,$8042-47-5$,$perfect$,$verified;normal$,$8042-47-5$,$perfect match$,
 $8042.47-5$,$$,$unk$,$unk$,$8042-47-5$,$corrected$,$False$,$added with NM_scrape (6-2022)$,$D:2022-06-06$,$$,$$
 $8043-29-6$,$8043-29-6$,$perfect$,$verified;normal$,$8043-29-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $8050-09-7$,$8050-09-7$,$perfect$,$verified;normal$,$8050-09-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$80506-64-5$,$$,$perfect$,$verified;normal$,$80506-64-5$,$perfect$,$True$,$$,$D:2023-01-14$,$$,$$
 $8052-41-3$,$8052-41-3$,$perfect$,$verified;normal$,$8052-41-3$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $8055-55-8$,$68-04-2$,$perfect$,$verified;from deprecated$,$68-04-2$,$deprecated and corrected$,$False$,$deprecated but valid replacement$,$d:2021-10-06$,$$,$$
 $8061-51-6$,$8061-51-6$,$perfect$,$verified;normal$,$8061-51-6$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
@@ -3380,6 +3384,7 @@ $84133-83-9$,$$,$unk$,$unk$,$ambiguous$,$ambiguousID$,$False$,$$,$d:2021-10-06$,
 $84138-50-6$,$$,$unk$,$unk$,$84133-50-6$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $844133-50-6$,$$,$unk$,$unk$,$84133-50-6$,$corrected$,$False$,$typo$,$d:2021-10-06$,$$,$$
 $848301-67-7$,$848301-67-7$,$perfect$,$verified;normal$,$848301-67-7$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
+$848301-69-9$,$848301-69-9$,$perfect$,$verified;normal$,$848301-69-9$,$perfect$,$False$,$$,$D:2022-12-08$,$$,$$
 $84833-50-6$,$$,$unk$,$unk$,$84133-50-6$,$corrected$,$False$,$added with NM_scrape (6-2022)$,$D:2022-06-06$,$$,$$
 $84852-15-3$,$84852-15-3$,$perfect$,$verified;normal$,$84852-15-3$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
 $85-44-9$,$85-44-9$,$perfect$,$verified;normal$,$85-44-9$,$perfect match$,$False$,$$,$d:2021-10-06$,$$,$$
